@@ -1,0 +1,1734 @@
+
+1.1
+flute>harm>reverb>spat
+flute>harm>spat
+osc>reverb>spat
+osc>spat
+dac : harm,osc,reverb
+
+1.6
+flute>harm>reverb>spat
+flute>harm>spat
+dac : harm,reverb
+
+1.10
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+dac : freqShift,harm,reverb
+
+1.12
+flute>harm>reverb>spat
+osc>spat
+osc>noise>spat
+dac : harm,reverb
+
+1.13
+flute>harm>reverb>spat
+flute>harm>freqShift
+osc>spat
+osc>noise>spat
+dac : freqShift,harm,reverb
+
+1.21
+flute>harm>reverb>spat
+osc>spat
+osc>noise>spat
+dac : harm,reverb
+
+1.22
+flute>harm>reverb>spat
+osc>spat
+dac : harm,reverb
+
+1.24
+flute>harm>reverb>spat
+dac : harm,reverb
+
+1.27
+flute>harm>reverb>spat
+osc>spat
+osc>reverb>spat
+dac : harm,osc,reverb
+
+1.30
+flute>harm>reverb>spat
+flute>harm>spat
+osc>spat
+osc>reverb>spat
+dac : harm,osc,reverb
+
+1.45
+osc>spat
+osc>reverb>spat
+dac : osc,reverb
+
+1.48
+flute>reverb>spat
+osc>spat
+osc>reverb>spat
+osc>noise>spat
+dac : noise,osc,reverb
+
+1.50
+flute>reverb>spat
+flute>reverb>freqShift
+osc>spat
+osc>reverb>spat
+osc>noise>spat
+osc>reverb>freqShift
+dac : freqShift,noise,osc,reverb
+
+1.56
+flute>reverb>spat
+osc>spat
+osc>reverb>spat
+osc>noise>spat
+dac : noise,osc,reverb
+
+1.57
+flute>reverb>spat
+flute>reverb>freqShift
+osc>spat
+osc>reverb>spat
+osc>noise>spat
+osc>reverb>freqShift
+dac : freqShift,noise,osc,reverb
+
+1.86
+flute>reverb>spat
+osc>spat
+osc>reverb>spat
+osc>noise>spat
+dac : noise,osc,reverb
+
+1.90
+flute>reverb>spat
+flute>reverb>freqShift>spat
+osc>spat
+osc>reverb>spat
+osc>noise>spat
+osc>reverb>freqShift>spat
+dac : freqShift,noise,osc,reverb
+
+1.91
+flute>reverb>spat
+flute>reverb>freqShift>spat
+dac : freqShift,reverb
+
+1.92
+flute>reverb>spat
+flute>reverb>freqShift>spat
+osc>spat
+osc>reverb>spat
+osc>noise>spat
+osc>reverb>freqShift>spat
+dac : freqShift,noise,osc,reverb
+
+1.95
+flute>reverb>spat
+flute>reverb>freqShift>spat
+dac : freqShift,reverb
+
+1.96
+flute>reverb>spat
+flute>reverb>freqShift>spat
+osc>spat
+osc>reverb>spat
+osc>noise>spat
+osc>reverb>freqShift>spat
+dac : freqShift,noise,osc,reverb
+
+1.98
+flute>reverb>spat
+flute>reverb>freqShift>spat
+dac : freqShift,reverb
+
+1.99
+flute>reverb>spat
+flute>reverb>freqShift>spat
+osc>spat
+osc>reverb>spat
+osc>noise>spat
+osc>reverb>freqShift>spat
+dac : freqShift,noise,osc,reverb
+
+1.107
+flute>reverb>spat
+flute>reverb>freqShift>spat
+dac : freqShift,reverb
+
+1.108
+flute>reverb>spat
+dac : reverb
+
+2.1
+flute>harm>reverb>spat
+flute>harm>spat
+dac : harm,reverb
+
+2.4
+flute>harm>reverb>spat
+flute>harm>spat
+osc>spat
+osc>noise>spat
+dac : harm,noise,osc,reverb
+
+2.7
+flute>harm>reverb>spat
+flute>harm>spat
+dac : harm,reverb
+
+2.14
+flute>harm>reverb>spat
+flute>harm>spat
+flute>harm>reverb>freqShift
+dac : freqShift,harm,reverb
+
+2.17
+flute>harm>reverb>spat
+flute>harm>spat
+dac : harm,reverb
+
+2.25
+flute>reverb>spat
+osc>spat
+osc>noise>spat
+dac : noise,osc,reverb
+
+2.26
+osc>spat
+osc>noise>spat
+dac : noise,osc
+
+2.31
+flute>reverb>spat
+osc>spat
+osc>noise>spat
+dac : noise,osc,reverb
+
+2.32
+osc>spat
+osc>noise>spat
+dac : noise,osc
+
+2.34
+flute>harm>reverb>spat
+flute>harm>spat
+osc>spat
+dac : osc,reverb
+
+2.36
+flute>harm>reverb>spat
+flute>harm>spat
+dac : reverb
+
+2.37
+flute>harm>reverb>spat
+flute>harm>spat
+dac : harm,reverb
+
+2.43
+flute>harm>reverb>spat
+flute>reverb>spat
+flute>harm>spat
+dac : harm,reverb
+
+2.46
+flute>harm>reverb>spat
+flute>harm>spat
+flute>harm>reverb>freqShift>spat
+dac : freqShift,harm,reverb
+
+2.49
+flute>harm>reverb>spat
+flute>harm>spat
+dac : harm,reverb
+
+2.50
+flute>reverb>spat
+dac : reverb
+
+2.51
+flute>reverb>spat
+flute>harm>reverb>spat
+flute>harm>spat
+dac : harm,reverb
+
+2.52
+flute>reverb>spat
+flute>harm>reverb>spat
+flute>harm>spat
+osc>spat
+dac : harm,osc,reverb
+
+2.55
+flute>reverb>spat
+flute>harm>reverb>spat
+flute>harm>spat
+dac : harm,reverb
+
+2.56
+flute>harm>reverb>spat
+flute>harm>spat
+dac : harm,reverb
+
+2.57
+flute>harm>spat
+flute>reverb>spat
+osc>spat
+dac : harm,osc,reverb
+
+2.58
+flute>harm>spat
+flute>reverb>spat
+dac : harm,reverb
+
+2.60
+flute>harm>spat
+flute>reverb>spat
+osc>spat
+dac : harm,osc,reverb
+
+2.62
+flute>harm>spat
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+osc>spat
+dac : freqShift,harm,osc,reverb
+
+2.63
+flute>harm>spat
+flute>harm>reverb>spat
+osc>spat
+dac : harm,osc,reverb
+
+2.64
+flute>harm>spat
+flute>harm>reverb>spat
+dac : harm,reverb
+
+2.65
+flute>harm>spat
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+flute>harm>reverb>freqShift>spat
+osc>spat
+dac : freqShift,harm,osc,reverb
+
+2.70
+flute>harm>spat
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+flute>harm>reverb>freqShift>spat
+dac : freqShift,harm,reverb
+
+2.71
+flute>harm>spat
+flute>reverb>spat
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+dac : freqShift,harm,reverb
+
+2.72
+flute>harm>spat
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+dac : freqShift,harm,reverb
+
+2.73
+flute>harm>spat
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+osc>spat
+dac : freqShift,harm,osc,reverb
+
+2.76
+flute>harm>spat
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+dac : freqShift,harm,reverb
+
+2.77
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+sampler>harm>reverb>spat
+sampler>spat
+sampler>harm>freqShift>spat
+dac : freqShift,harm,reverb,sampler
+
+2.78
+sampler>harm>reverb>spat
+sampler>spat
+dac : harm,reverb,sampler
+
+2.79
+flute>harm>reverb>spat
+sampler>harm>reverb>spat
+sampler>spat
+dac : harm,reverb,sampler
+
+3.0
+flute>harm>reverb>spat
+sampler>harm>reverb>spat
+dac : harm,reverb,sampler
+
+3.1
+flute>harm>reverb>spat
+sampler>harm>reverb>spat
+osc>spat
+osc>noise>spat
+dac : harm,noise,osc,reverb,sampler
+
+3.3
+flute>harm>reverb>spat
+sampler>harm>reverb>spat
+osc>spat
+dac : harm,osc,reverb,sampler
+
+3.4
+flute>harm>reverb>spat
+sampler>harm>reverb>spat
+osc>spat
+osc>noise>spat
+dac : harm,noise,osc,reverb,sampler
+
+3.9
+flute>harm>reverb>spat
+dac : harm,reverb
+
+3.10
+flute>harm>reverb>spat
+osc>spat
+osc>harm>reverb>spat
+osc>freqShift>spat
+dac : osc,reverb
+
+3.13
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+osc>spat
+osc>harm>reverb>spat
+osc>freqShift>spat
+osc>noise>spat
+osc>harm>freqShift>spat
+dac : freqShift,noise,osc,reverb
+
+3.14
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+osc>spat
+osc>harm>reverb>spat
+osc>freqShift>spat
+osc>harm>freqShift>spat
+dac : freqShift,osc,reverb
+
+3.18
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+osc>spat
+osc>harm>reverb>spat
+osc>freqShift>spat
+osc>noise>spat
+osc>harm>freqShift>spat
+osc>noise>freqShift>spat
+dac : freqShift,noise,osc,reverb
+
+3.20
+flute>harm>reverb>spat
+flute>harm>freqShift>spat
+flute>harm>freqShift>noise>spat
+osc>spat
+osc>harm>reverb>spat
+osc>freqShift>spat
+osc>reverb>spat
+osc>harm>freqShift>spat
+osc>harm>freqShift>noise>spat
+dac : freqShift,noise,osc,reverb
+
+3.21
+flute>harm>reverb>spat
+flute>harm>freqShift>noise>spat
+osc>spat
+osc>harm>reverb>spat
+osc>freqShift>noise>spat
+osc>reverb>spat
+osc>harm>freqShift>noise>spat
+dac : noise,osc,reverb
+
+3.33
+flute>harm>reverb>spat
+flute>harm>freqShift>noise>spat
+flute>harm>freqShift>reverb>spat
+flute>harm>freqShift>spat
+sampler>reverb>spat
+sampler>harm>reverb>spat
+sampler>freqShift>noise>spat
+sampler>harm>freqShift>noise>spat
+sampler>harm>freqShift>reverb>spat
+sampler>harm>freqShift>spat
+dac : harm,noise,reverb,sampler
+
+3.34
+flute>harm>reverb>spat
+flute>harm>freqShift>noise>spat
+flute>harm>freqShift>reverb>spat
+flute>harm>freqShift>spat
+sampler>reverb>spat
+sampler>harm>reverb>spat
+sampler>freqShift>noise>spat
+sampler>harm>freqShift>noise>spat
+sampler>harm>freqShift>reverb>spat
+sampler>harm>freqShift>spat
+osc>spat
+osc>freqShift>noise>spat
+osc>reverb>spat
+osc>freqShift>reverb>spat
+osc>freqShift>spat
+dac : harm,noise,osc,reverb,sampler
+
+3.63
+flute>harm>reverb>spat
+flute>harm>freqShift>noise>spat
+flute>harm>freqShift>reverb>spat
+flute>harm>freqShift>spat
+sampler>reverb>spat
+sampler>harm>reverb>spat
+sampler>freqShift>noise>spat
+sampler>harm>freqShift>noise>spat
+sampler>harm>freqShift>reverb>spat
+sampler>harm>freqShift>spat
+dac : harm,noise,reverb,sampler
+
+3.64
+flute>harm>reverb>spat
+flute>harm>freqShift>noise>spat
+flute>harm>freqShift>reverb>spat
+flute>harm>freqShift>spat
+dac : harm,noise,reverb
+
+3.65
+flute>harm>reverb
+flute>harm>freqShift>noise>spat
+flute>harm>spat
+flute>harm>freqShift>reverb
+sampler>reverb
+sampler>harm>reverb
+sampler>spat
+sampler>harm>freqShift>noise>spat
+sampler>harm>spat
+sampler>harm>freqShift>reverb
+osc>spat
+osc>reverb
+osc>harm>reverb
+osc>harm>freqShift>noise>spat
+osc>harm>spat
+osc>harm>freqShift>reverb
+dac : noise,osc,reverb,sampler
+
+3.69
+flute>harm>reverb
+flute>harm>freqShift>noise>spat
+flute>harm>spat
+flute>harm>freqShift>reverb
+sampler>reverb
+sampler>harm>reverb
+sampler>spat
+sampler>harm>freqShift>noise>spat
+sampler>harm>spat
+sampler>harm>freqShift>reverb
+osc>spat
+osc>reverb
+osc>harm>reverb
+osc>harm>freqShift>noise>spat
+osc>harm>spat
+osc>harm>freqShift>reverb
+dac : noise,reverb,sampler
+
+3.70
+flute>harm>reverb
+flute>harm>freqShift>noise>spat
+flute>harm>spat
+flute>harm>freqShift>reverb
+sampler>reverb
+sampler>harm>reverb
+sampler>spat
+sampler>harm>freqShift>noise>spat
+sampler>harm>spat
+sampler>harm>freqShift>reverb
+osc>spat
+osc>reverb
+osc>harm>reverb
+osc>harm>freqShift>noise>spat
+osc>harm>spat
+osc>harm>freqShift>reverb
+dac : noise,osc,reverb,sampler
+
+3.71
+flute>harm>reverb
+flute>harm>freqShift>noise>spat
+flute>harm>spat
+flute>harm>freqShift>reverb
+sampler>reverb
+sampler>harm>reverb
+sampler>spat
+sampler>harm>freqShift>noise>spat
+sampler>harm>spat
+sampler>harm>freqShift>reverb
+osc>spat
+osc>reverb
+osc>harm>reverb
+osc>harm>freqShift>noise>spat
+osc>harm>spat
+osc>harm>freqShift>reverb
+dac : harm,noise,osc,reverb,sampler
+
+3.72
+flute>harm>reverb>freqShift>spat
+flute>harm>spat
+sampler>reverb>freqShift>spat
+sampler>harm>reverb>freqShift>spat
+sampler>spat
+sampler>harm>spat
+osc>spat
+osc>reverb>freqShift>spat
+osc>harm>reverb>freqShift>spat
+osc>harm>spat
+dac : freqShift,harm,osc,reverb,sampler
+
+3.76
+flute>harm>reverb>freqShift>spat
+flute>harm>spat
+sampler>reverb>freqShift>spat
+sampler>harm>reverb>freqShift>spat
+sampler>spat
+sampler>harm>spat
+osc>reverb>freqShift>spat
+osc>harm>reverb>freqShift>spat
+osc>harm>spat
+dac : freqShift,harm,sampler
+
+3.77
+flute>harm>reverb>freqShift>spat
+sampler>reverb>freqShift>spat
+sampler>harm>reverb>freqShift>spat
+sampler>spat
+osc>reverb>freqShift>spat
+osc>spat
+dac : osc,sampler
+
+3.78
+flute>harm>reverb>freqShift>spat
+sampler>reverb>freqShift>spat
+sampler>harm>reverb>freqShift>spat
+sampler>spat
+osc>reverb>freqShift>spat
+osc>harm>reverb>freqShift>spat
+dac : sampler
+
+3.79
+flute>harm>reverb>freqShift>spat
+sampler>reverb>freqShift>spat
+sampler>spat
+osc>reverb>freqShift>spat
+osc>harm>reverb>freqShift>spat
+dac : sampler
+
+3.80
+flute>harm>reverb>freqShift>spat
+sampler>reverb>freqShift>spat
+sampler>spat
+osc>reverb>freqShift>spat
+osc>harm>reverb>freqShift>spat
+osc>spat
+dac : osc,reverb,sampler
+
+3.81
+flute>harm>reverb>freqShift>spat
+flute>harm>spat
+osc>reverb>freqShift>spat
+osc>harm>reverb>freqShift>spat
+osc>spat
+osc>harm>spat
+dac : harm,osc,reverb
+
+3.82
+flute>harm>reverb
+flute>harm>spat
+osc>reverb
+osc>harm>reverb
+osc>spat
+osc>harm>spat
+dac : osc,reverb
+
+3.83
+flute>harm>reverb
+flute>harm>spat
+sampler>reverb
+sampler>spat
+sampler>harm>reverb
+sampler>harm>spat
+osc>reverb
+osc>spat
+dac : harm,osc,reverb,sampler
+
+3.84
+flute>harm>reverb
+flute>harm>spat
+sampler>reverb
+sampler>spat
+sampler>harm>reverb
+sampler>harm>spat
+osc>reverb
+osc>spat
+osc>harm>reverb
+osc>noise>spat
+osc>harm>spat
+dac : harm,noise,osc,reverb,sampler
+
+3.87
+flute>harm>spat
+flute>freqShift>spat
+sampler>reverb
+sampler>spat
+sampler>harm>spat
+sampler>freqShift>spat
+osc>spat
+osc>harm>spat
+osc>freqShift>spat
+dac : freqShift,reverb,sampler
+
+3.88
+flute>harm>spat
+sampler>reverb
+sampler>spat
+sampler>harm>spat
+sampler>freqShift>spat
+osc>spat
+osc>harm>spat
+osc>freqShift>spat
+dac : freqShift,harm,osc,reverb,sampler
+
+3.90
+flute>harm>spat
+sampler>reverb
+sampler>spat
+sampler>harm>spat
+osc>spat
+osc>harm>spat
+dac : harm,osc,reverb,sampler
+
+3.92
+flute>harm>spat
+sampler>reverb
+sampler>spat
+sampler>harm>spat
+sampler>freqShift>spat
+osc>spat
+osc>harm>spat
+osc>freqShift>spat
+dac : freqShift,harm,osc,reverb,sampler
+
+3.93
+flute>harm>spat
+sampler>reverb
+sampler>spat
+sampler>harm>spat
+sampler>freqShift>spat
+osc>spat
+osc>freqShift>spat
+dac : freqShift,harm,osc,reverb,sampler
+
+3.94
+flute>harm>spat
+sampler>reverb
+sampler>spat
+sampler>harm>spat
+sampler>freqShift>spat
+dac : freqShift,harm,reverb,sampler
+
+3.101
+flute>harm>spat
+sampler>spat
+sampler>harm>spat
+sampler>freqShift>spat
+osc>spat
+osc>freqShift>spat
+dac : freqShift,harm,osc,sampler
+
+3.102
+flute>harm>spat
+sampler>reverb
+sampler>spat
+sampler>harm>spat
+sampler>freqShift>spat
+osc>spat
+osc>freqShift>spat
+dac : freqShift,harm,osc,reverb,sampler
+
+3.119
+flute>harm>spat
+sampler>reverb
+sampler>spat
+sampler>harm>spat
+sampler>freqShift>spat
+dac : freqShift,harm,reverb,sampler
+
+3.120
+flute>harm>spat
+sampler>reverb
+sampler>spat
+sampler>harm>spat
+sampler>freqShift>spat
+osc>spat
+osc>freqShift>spat
+dac : freqShift,harm,osc,reverb,sampler
+
+3.129
+flute>harm>spat
+osc>spat
+osc>freqShift>spat
+dac : freqShift,harm,osc
+
+3.130
+flute>harm>spat
+dac : harm
+
+3.131
+flute>harm>spat
+osc>spat
+osc>freqShift>spat
+dac : freqShift,harm,osc
+
+3.138
+flute>harm>spat
+dac : harm
+
+3.139
+flute>harm>spat
+osc>spat
+osc>freqShift>spat
+dac : freqShift,harm,osc
+
+3.150
+flute>harm>spat
+dac : harm
+
+4.1
+flute>reverb>freqShift>spat
+dac : freqShift,reverb
+
+4.5
+flute>reverb>freqShift>spat
+flute>reverb>spat
+dac : freqShift,reverb
+
+4.8
+flute>spat
+
+4.11
+flute>spat
+osc>reverb>spat
+dac : osc,reverb
+
+4.14
+flute>spat
+osc>reverb>spat
+osc>spat
+osc>noise>spat
+dac : noise,osc,reverb
+
+4.15
+flute>spat
+
+4.17
+flute>harm>spat
+flute>harm>reverb>freqShift>spat
+osc>reverb>freqShift>spat
+osc>spat
+osc>noise>spat
+dac : freqShift,harm,reverb
+
+4.18
+flute>harm>spat
+flute>harm>reverb>freqShift>spat
+osc>reverb>freqShift>spat
+dac : harm,reverb
+
+4.19
+flute>harm>spat
+flute>spat
+flute>harm>reverb>freqShift>spat
+flute>harm>reverb>spat
+osc>reverb>freqShift>spat
+osc>noise>spat
+osc>freqShift>spat
+osc>spat
+osc>reverb>spat
+dac : harm,noise,reverb
+
+4.20
+flute>harm>spat
+flute>harm>reverb>freqShift>spat
+flute>harm>freqShift>spat
+flute>harm>reverb>spat
+osc>reverb>freqShift>spat
+osc>noise>spat
+osc>freqShift>spat
+osc>spat
+osc>reverb>spat
+dac : freqShift,harm,noise,osc,reverb
+
+4.21
+osc>reverb>freqShift>spat
+osc>freqShift>spat
+osc>spat
+osc>reverb>spat
+dac : freqShift,osc,reverb
+
+4.22
+flute>harm>reverb>freqShift>spat
+flute>harm>reverb>spat
+osc>freqShift>spat
+osc>spat
+dac : freqShift,osc,reverb
+
+4.23
+flute>harm>reverb>freqShift>spat
+flute>reverb>freqShift>spat
+osc>freqShift>spat
+osc>spat
+dac : freqShift,osc,reverb
+
+5.0
+flute>reverb
+osc>spat
+dac : osc,reverb
+
+5.1
+sampler>harm>freqShift>spat
+sampler>freqShift>spat
+sampler>reverb
+sampler>noise>reverb
+sampler>spat
+sampler>noise>spat
+osc>noise>reverb
+osc>spat
+osc>harm>freqShift>spat
+osc>noise>spat
+dac : freqShift,harm,noise,osc,reverb,sampler
+
+5.6
+dac : reverb
+
+5.7
+sampler>harm>reverb
+sampler>reverb
+sampler>noise>reverb
+dac : harm,reverb,sampler
+
+5.8
+sampler>harm>reverb>spat
+sampler>reverb>spat
+sampler>noise>reverb>spat
+dac : harm,reverb,sampler
+
+5.11
+dac : reverb
+
+5.12
+flute>harm>reverb>spat
+flute>spat
+flute>harm>spat
+sampler>harm>reverb>spat
+sampler>reverb>spat
+sampler>noise>reverb>spat
+sampler>spat
+sampler>harm>spat
+dac : harm,reverb,sampler
+
+5.13
+flute>harm>reverb>spat
+flute>spat
+flute>harm>spat
+flute>harm>freqShift>spat
+flute>harm>reverb>freqShift>spat
+sampler>harm>reverb>spat
+sampler>reverb>spat
+sampler>noise>reverb>spat
+sampler>spat
+sampler>freqShift>spat
+sampler>harm>spat
+sampler>harm>freqShift>spat
+sampler>noise>reverb>freqShift>spat
+dac : freqShift,harm,reverb,sampler
+
+5.17
+flute>harm>reverb>freqShift
+flute>spat
+flute>harm>spat
+flute>harm>freqShift
+sampler>harm>reverb>freqShift
+sampler>reverb>freqShift
+sampler>noise>reverb>freqShift
+sampler>spat
+sampler>freqShift
+sampler>harm>spat
+sampler>harm>freqShift
+dac : freqShift,harm,reverb,sampler
+
+5.25
+flute>harm>reverb>freqShift
+flute>spat
+flute>reverb>freqShift
+flute>harm>spat
+flute>harm>freqShift
+flute>reverb>spat
+dac : freqShift,harm,reverb
+
+5.26
+flute>harm>reverb>freqShift
+flute>spat
+flute>harm>spat
+flute>harm>freqShift
+flute>harm>reverb>spat
+dac : freqShift,harm,reverb
+
+6.0
+flute>harm>spat
+dac : harm,reverb
+
+6.1
+flute>harm>spat
+osc>noise>reverb>spat
+osc>harm>spat
+osc>spat
+dac : harm,osc,reverb
+
+6.4
+flute>harm>spat
+osc>noise>reverb>spat
+osc>spat
+osc>reverb>spat
+dac : harm,osc,reverb
+
+6.5
+flute>harm>spat
+osc>noise>reverb>spat
+osc>spat
+osc>reverb>spat
+osc>harm>spat
+dac : harm,osc,reverb
+
+6.6
+flute>harm>spat
+flute>harm>freqShift
+osc>noise>reverb>spat
+osc>spat
+osc>reverb>spat
+osc>harm>spat
+osc>freqShift
+osc>harm>freqShift
+dac : freqShift,harm,osc,reverb
+
+6.7
+flute>harm>spat
+osc>noise>reverb>spat
+osc>spat
+osc>reverb>spat
+osc>harm>spat
+dac : harm,osc,reverb
+
+6.12
+flute>harm>spat
+osc>noise>reverb>spat
+osc>spat
+osc>reverb>spat
+osc>harm>spat
+osc>freqShift
+dac : freqShift,harm,osc,reverb
+
+6.13
+flute>harm>spat
+osc>noise>reverb>spat
+osc>spat
+osc>reverb>spat
+osc>harm>spat
+dac : harm,osc,reverb
+
+6.30
+osc>noise>reverb>spat
+osc>spat
+osc>reverb>spat
+osc>harm>spat
+dac : harm,osc,reverb
+
+6.32
+osc>noise>reverb>spat
+osc>spat
+osc>reverb>spat
+dac : osc,reverb
+
+6.33
+dac : reverb
+
+7.1
+flute>reverb>spat
+osc>noise>reverb>spat
+osc>spat
+osc>noise>spat
+dac : osc,reverb
+
+7.5
+flute>reverb>spat
+dac : reverb
+
+7.6
+flute>reverb>spat
+osc>noise>reverb>spat
+osc>spat
+osc>noise>spat
+dac : osc,reverb
+
+7.10
+flute>reverb>spat
+dac : reverb
+
+7.11
+flute>reverb>spat
+osc>noise>reverb>spat
+osc>spat
+osc>noise>spat
+dac : osc,reverb
+
+7.16
+flute>reverb>spat
+dac : reverb
+
+8.2
+sampler>noise>spat
+dac : sampler
+
+8.8
+flute>harm>spat
+flute>harm>reverb>spat
+sampler>noise>spat
+dac : harm,sampler
+
+8.22
+sampler>noise>spat
+dac : sampler
+
+8.25
+flute>reverb>spat
+flute>harm>spat
+flute>harm>reverb>spat
+sampler>noise>spat
+dac : harm,sampler
+
+9.1
+flute>reverb
+flute>spat
+dac : reverb
+
+9.2
+flute>reverb
+flute>spat
+sampler>noise>spat
+sampler>reverb
+sampler>harm>spat
+sampler>harm>reverb
+dac : harm,reverb,sampler
+
+9.4
+flute>reverb>freqShift>spat
+flute>spat
+sampler>noise>spat
+sampler>reverb>freqShift>spat
+sampler>harm>spat
+sampler>freqShift>spat
+sampler>harm>reverb>freqShift>spat
+dac : freqShift,harm,reverb,sampler
+
+9.5
+flute>reverb
+flute>spat
+sampler>noise>spat
+sampler>reverb
+sampler>harm>spat
+sampler>harm>reverb
+dac : harm,reverb,sampler
+
+9.6
+flute>reverb
+flute>spat
+sampler>noise>spat
+sampler>reverb
+sampler>harm>spat
+sampler>freqShift>spat
+sampler>harm>reverb
+dac : freqShift,harm,reverb,sampler
+
+9.7
+flute>reverb
+flute>spat
+sampler>noise>spat
+sampler>reverb
+sampler>harm>spat
+sampler>harm>reverb
+dac : harm,reverb,sampler
+
+9.8
+flute>reverb
+flute>spat
+sampler>noise>spat
+sampler>reverb
+sampler>harm>spat
+sampler>freqShift>spat
+sampler>harm>reverb
+dac : freqShift,harm,reverb,sampler
+
+9.9
+flute>reverb
+flute>spat
+sampler>noise>spat
+sampler>reverb
+sampler>harm>spat
+sampler>harm>reverb
+dac : harm,reverb,sampler
+
+9.10
+flute>reverb
+flute>spat
+sampler>noise>spat
+sampler>reverb
+sampler>harm>spat
+sampler>freqShift>spat
+sampler>harm>reverb
+dac : freqShift,harm,reverb,sampler
+
+9.11
+flute>reverb
+flute>spat
+sampler>noise>spat
+sampler>reverb
+sampler>harm>spat
+sampler>harm>reverb
+dac : harm,reverb,sampler
+
+9.12
+flute>reverb
+flute>spat
+dac : reverb
+
+9.13
+flute>reverb
+flute>spat
+sampler>harm>spat
+sampler>freqShift>spat
+sampler>harm>reverb
+sampler>harm>freqShift>spat
+dac : freqShift,harm,reverb,sampler
+
+9.14
+flute>reverb
+flute>spat
+sampler>noise>spat
+sampler>harm>spat
+sampler>freqShift>spat
+sampler>spat
+sampler>harm>reverb
+sampler>harm>freqShift>spat
+sampler>harm>noise>spat
+sampler>harm>freqShift>noise>spat
+dac : freqShift,harm,reverb,sampler
+
+9.15
+flute>reverb
+flute>spat
+dac : reverb
+
+10.0
+flute>spat
+flute>harm>noise>spat
+dac : harm
+
+10.2
+flute>spat
+flute>harm>noise>spat
+dac : harm,sampler
+
+10.10
+flute>spat
+sampler>reverb
+sampler>harm>noise>spat
+sampler>spat
+sampler>harm>reverb
+sampler>harm>spat
+dac : harm,reverb,sampler
+
+10.11
+flute>spat
+sampler>reverb
+sampler>spat
+dac : reverb,sampler
+
+10.12
+flute>spat
+sampler>reverb
+sampler>harm>noise>spat
+sampler>harm>reverb
+dac : harm,reverb,sampler
+
+10.13
+flute>spat
+
+10.14
+flute>spat
+flute>harm>noise>spat
+flute>harm>reverb
+sampler>reverb
+sampler>harm>noise>spat
+sampler>harm>reverb
+dac : harm,reverb,sampler
+
+11.0
+flute>spat
+flute>harm>noise>spat
+dac : harm
+
+11.1
+flute>spat
+flute>harm>noise>spat
+flute>reverb>noise>spat
+flute>reverb>freqShift>noise>spat
+dac : freqShift,harm,reverb
+
+11.3
+flute>spat
+flute>harm>noise>spat
+flute>harm>reverb>noise>spat
+flute>harm>reverb>freqShift>noise>spat
+dac : freqShift,harm,reverb
+
+11.4
+flute>spat
+
+11.5
+flute>spat
+flute>harm>noise>spat
+flute>reverb>noise>spat
+flute>harm>reverb>noise>spat
+flute>harm>reverb>freqShift>noise>spat
+dac : freqShift,harm,reverb
+
+11.8
+flute>spat
+flute>harm>noise>spat
+flute>harm>reverb>noise>spat
+flute>harm>reverb>freqShift>noise>spat
+dac : freqShift,harm,reverb
+
+11.9
+flute>spat
+
+11.10
+flute>spat
+flute>reverb>noise>spat
+flute>reverb>freqShift>noise>spat
+dac : freqShift,reverb
+
+11.12
+flute>spat
+flute>harm>noise>spat
+flute>harm>reverb>noise>spat
+flute>harm>reverb>freqShift>noise>spat
+dac : freqShift,harm,reverb
+
+11.14
+flute>spat
+
+11.15
+flute>spat
+flute>harm>noise>spat
+flute>reverb>noise>spat
+flute>harm>reverb>noise>spat
+dac : harm,reverb
+
+11.18
+flute>spat
+flute>reverb>noise>spat
+dac : reverb
+
+12.0
+flute>spat
+
+12.1
+flute>spat
+osc>noise>spat
+osc>spat
+osc>reverb>noise>spat
+osc>harm>noise>spat
+osc>harm>spat
+dac : harm,osc,reverb
+
+12.3
+flute>spat
+osc>noise>spat
+osc>spat
+osc>reverb>noise>spat
+dac : osc,reverb
+
+12.4
+flute>spat
+osc>noise>spat
+osc>spat
+osc>reverb>noise>spat
+osc>harm>noise>spat
+osc>harm>spat
+dac : harm,osc,reverb
+
+12.5
+flute>spat
+osc>noise>spat
+osc>spat
+osc>reverb>noise>spat
+dac : osc,reverb
+
+12.6
+flute>spat
+flute>harm>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+osc>noise>spat
+osc>spat
+dac : harm,osc,reverb
+
+12.8
+flute>spat
+flute>harm>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>harm>spat
+osc>harm>reverb>noise>spat
+dac : harm,osc,reverb
+
+12.10
+flute>spat
+flute>harm>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>reverb>noise>spat
+osc>harm>spat
+osc>harm>reverb>noise>spat
+dac : harm,reverb
+
+12.11
+flute>spat
+flute>harm>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+flute>harm>freqShift>noise>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>reverb>noise>spat
+osc>freqShift>noise>spat
+osc>harm>spat
+osc>harm>reverb>noise>spat
+osc>harm>freqShift>noise>spat
+dac : freqShift,harm,reverb
+
+12.12
+flute>spat
+flute>harm>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>reverb>noise>spat
+osc>harm>spat
+osc>harm>reverb>noise>spat
+dac : harm,reverb
+
+12.14
+flute>spat
+flute>harm>noise>spat
+flute>freqShift>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+flute>harm>freqShift>noise>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>reverb>noise>spat
+osc>freqShift>noise>spat
+osc>harm>spat
+osc>harm>reverb>noise>spat
+osc>harm>freqShift>noise>spat
+dac : freqShift,harm,noise,reverb
+
+12.15
+flute>spat
+flute>harm>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>reverb>noise>spat
+osc>harm>spat
+osc>harm>reverb>noise>spat
+dac : harm,reverb
+
+12.18
+flute>spat
+flute>harm>noise>spat
+flute>freqShift>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+flute>harm>freqShift>noise>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>reverb>noise>spat
+osc>freqShift>noise>spat
+osc>harm>spat
+osc>harm>reverb>noise>spat
+osc>harm>freqShift>noise>spat
+dac : freqShift,harm,reverb
+
+12.19
+flute>spat
+flute>harm>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>reverb>noise>spat
+osc>harm>spat
+osc>harm>reverb>noise>spat
+dac : harm,reverb
+
+12.20
+flute>spat
+flute>harm>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>reverb>noise>spat
+osc>freqShift>noise>spat
+osc>harm>spat
+osc>harm>reverb>noise>spat
+dac : freqShift,harm,reverb
+
+12.21
+flute>spat
+osc>noise>spat
+osc>spat
+dac : osc
+
+12.22
+flute>spat
+flute>harm>noise>spat
+flute>harm>reverb>noise>spat
+flute>harm>spat
+flute>harm>reverb>freqShift>noise>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>harm>reverb>noise>spat
+osc>harm>spat
+osc>harm>reverb>freqShift>noise>spat
+dac : freqShift,harm,osc,reverb
+
+12.23
+flute>spat
+osc>noise>spat
+osc>spat
+dac : osc
+
+12.24
+flute>spat
+flute>harm>noise>spat
+flute>harm>reverb>noise>spat
+flute>harm>spat
+flute>harm>reverb>freqShift>noise>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>harm>reverb>noise>spat
+osc>harm>spat
+osc>harm>reverb>freqShift>noise>spat
+dac : freqShift,harm,osc,reverb
+
+12.30
+flute>spat
+flute>harm>noise>spat
+flute>reverb>noise>spat
+flute>harm>reverb>noise>spat
+flute>harm>spat
+osc>noise>spat
+osc>spat
+osc>harm>noise>spat
+osc>reverb>noise>spat
+osc>harm>reverb>noise>spat
+osc>harm>spat
+dac : harm,osc,reverb
+
+12.31
+flute>spat
+flute>harm>noise>spat
+flute>harm>reverb>noise>spat
+flute>harm>spat
+dac : harm,reverb
+
+13.1
+flute>reverb>noise>spat
+flute>reverb>spat
+osc>noise>spat
+osc>spat
+dac : noise,osc,reverb
+
+13.2
+flute>reverb>noise>spat
+flute>reverb>spat
+flute>reverb>freqShift>noise>spat
+osc>noise>spat
+osc>spat
+dac : freqShift,noise,osc,reverb
+
+13.5
+flute>reverb>noise>spat
+flute>reverb>spat
+osc>noise>spat
+osc>spat
+dac : noise,osc,reverb
+
+13.6
+flute>reverb>noise>spat
+flute>reverb>spat
+flute>reverb>harm>noise>spat
+flute>reverb>harm>spat
+osc>noise>spat
+osc>spat
+dac : harm,noise,osc,reverb
+
+13.7
+flute>reverb>noise>spat
+flute>reverb>spat
+flute>reverb>harm>noise>spat
+flute>reverb>freqShift>noise>spat
+flute>reverb>harm>spat
+flute>reverb>harm>freqShift>noise>spat
+osc>noise>spat
+osc>spat
+dac : freqShift,harm,noise,osc,reverb
+
+13.11
+flute>reverb>noise>spat
+flute>reverb>spat
+flute>reverb>harm>noise>spat
+flute>reverb>harm>spat
+osc>noise>spat
+osc>spat
+dac : harm,noise,osc,reverb
+
+13.12
+flute>reverb>noise>spat
+flute>reverb>spat
+flute>reverb>harm>noise>spat
+flute>reverb>harm>spat
+dac : harm,noise,reverb
+
+13.13
+flute>reverb>noise>spat
+flute>reverb>spat
+osc>noise>spat
+osc>spat
+dac : osc,reverb
+
+13.14
+flute>reverb>noise>spat
+flute>reverb>spat
+flute>reverb>freqShift>noise>spat
+osc>noise>spat
+osc>spat
+dac : freqShift,osc,reverb
+
+13.15
+flute>reverb>noise>spat
+flute>reverb>spat
+osc>noise>spat
+osc>spat
+dac : osc,reverb
+
+13.16
+flute>reverb>noise>spat
+flute>freqShift>noise>spat
+flute>reverb>spat
+flute>reverb>freqShift>noise>spat
+flute>reverb>freqShift>spat
+osc>noise>spat
+osc>spat
+dac : freqShift,osc,reverb
+
+13.17
+flute>reverb>noise>spat
+flute>reverb>spat
+osc>noise>spat
+osc>spat
+dac : osc,reverb
+
+13.18
+flute>harm>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+flute>harm>reverb>spat
+osc>noise>spat
+osc>spat
+dac : harm,osc,reverb
+
+13.19
+osc>noise>spat
+osc>spat
+dac : osc
+
+13.22
+flute>reverb>noise>spat
+flute>reverb>spat
+osc>noise>spat
+osc>spat
+dac : osc,reverb
+
+13.23
+flute>reverb>noise>spat
+flute>reverb>spat
+dac : reverb
+
+13.25
+flute>reverb>noise>spat
+flute>reverb>spat
+osc>noise>spat
+osc>spat
+dac : osc,reverb
+
+13.26
+flute>harm>noise>spat
+flute>harm>spat
+flute>harm>reverb>noise>spat
+flute>harm>reverb>spat
+flute>harm>reverb>freqShift>noise>spat
+flute>harm>reverb>freqShift>spat
+osc>noise>spat
+osc>spat
+dac : freqShift,harm,osc,reverb
