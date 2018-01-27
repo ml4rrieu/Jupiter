@@ -1,0 +1,588 @@
+evt	flute	sampler	osc	reverb	harm	freqShift	noise	spat
+1.0		tto2	otor			fto4,fto2		
+1.1	dtoh	tto2	otor,oto4,oto2	rto4,rto2	htor,hto4,hto2	fto4,fto2		
+1.2	dtoh	tto2	otor,oto4,oto2	rto4,rto2	htor,hto4,hto2	fto4,fto2		
+1.3	dtoh	tto2	otor,oto4,oto2	rto4,rto2	htor,hto4,hto2	fto4,fto2		
+1.4	dtoh	tto2	otor,oto4,oto2	rto4,rto2	htor,hto4,hto2	fto4,fto2		
+1.5	dtoh	tto2	otor,oto4,oto2	rto4,rto2	htor,hto4,hto2	fto4,fto2		
+1.6	dtoh	tto2	otor,oto4,oto2	rto4,rto2	htor,hto4,hto2	fto4,fto2		
+1.7	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto4,fto2		
+1.8	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto4,fto2		
+1.9	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto4,fto2		
+1.10	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto2,htof	fto4,fto2		
+1.11	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto2,htof	fto4,fto2		
+1.12	dtoh		oto4,oton	rto4,rto2	htor,hto2	fto4,fto2	nto4	
+1.13	dtoh		oto4,oton	rto4,rto2	htor,hto2,htof	fto2	nto4	
+1.14	dtoh		oto4,oton	rto4,rto2	htor,hto2,htof	fto2	nto4	
+1.15	dtoh		oto4,oton	rto4,rto2	htor,hto2,htof	fto2	nto4	
+1.16	dtoh		oto4,oton	rto4,rto2	htor,hto2,htof	fto2	nto4	
+1.17	dtoh		oto4,oton	rto4,rto2	htor,hto2,htof	fto2	nto4	
+1.18	dtoh		oto4,oton	rto4,rto2	htor,hto2,htof	fto2	nto4	
+1.19	dtoh		oto4,oton	rto4,rto2	htor,hto2,htof	fto2	nto4	
+1.20	dtoh		oto4,oton	rto4,rto2	htor,hto2,htof	fto2	nto4	
+1.21	dtoh		oto4,oton	rto4,rto2	htor,hto2	fto2	nto4	
+1.22	dtoh		oto4,oton	rto4,rto2	htor,hto2	fto2		
+1.23	dtoh		oto4,oton	rto4,rto2	htor,hto2	fto2		
+1.24	dtoh		oto4	rto4,rto2	htor,hto2	fto2		
+1.25	dtoh		oto4	rto4,rto2	htor,hto2	fto2		
+1.26	dtoh		oto4,oto2	rto4,rto2	htor,hto2	fto2		
+1.27	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2	fto2		
+1.28	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2	fto2		
+1.29	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2	fto2		
+1.30	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.31	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.32	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.33	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.34	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.35	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.36	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.37	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.38	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.39	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.40	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.41	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.42	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.43	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.44	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.45	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.46	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.47	dtoh		oto4,oto2,otor	rto4,rto2	htor,hto2,hto4	fto2		
+1.48	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2	htor,hto2,hto4	fto2	nto4,nto2	
+1.49	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2	htor,hto2,hto4	fto2	nto4,nto2	
+1.50	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.51	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.52	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.53	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.54	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.55	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.56	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2	htor,hto2,hto4	fto2	nto4,nto2	
+1.57	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.58	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.59	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.60	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.61	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.62	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.63	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.64	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.65	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.66	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.67	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.68	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.69	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.70	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.71	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.72	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.73	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.74	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.75	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.76	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.77	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.78	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.79	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.80	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.81	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.82	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.83	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.84	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.85	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+1.86	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2	htor,hto2,hto4	fto2	nto4,nto2	
+1.87	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2	htor,hto2,hto4	fto2	nto4,nto2	
+1.88	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.89	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.90	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.91	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.92	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.93	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.94	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.95	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.96	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.97	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.98	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.99	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.100	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.101	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.102	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.103	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.104	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.105	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.106	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.107	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+1.108	dtoh,dtor		oto4,oto2,otor,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.0	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.1	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.2	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.3	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.4	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.5	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.6	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.7	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.8	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.9	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.10	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.11	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.12	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.13	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.14	dtoh	tto2	oto4,oto2,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+2.15	dtoh	tto2	oto4,oto2,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+2.16	dtoh	tto2	oto4,oto2,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+2.17	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2	nto4,nto2	
+2.18	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2	nto4,nto2	
+2.19	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2	nto4,nto2	
+2.20	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2	nto4,nto2	
+2.21	dtoh	tto2	oto4,oto2,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.22	dtoh	tto2	oto4,oto2,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.23	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.24	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.25	dtoh,dtor	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.26	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.27	dtoh	tto2	oto4,oto2,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+2.28	dtoh	tto2	oto4,oto2,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+2.29	dtoh	tto2	oto4,oto2,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2	nto4,nto2	
+2.30	dtoh	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.31	dtoh,dtor	tto2	oto4,oto2,oton	rto4,rto2	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.32	dtoh	tto2	oto4,oto2,oton	rto4,rto2,rtof	htor,hto2,hto4	fto2,fto4	nto4,nto2	
+2.33	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4	fto2,fto4	nto4,nto2	
+2.34	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4	fto2,fto4	nto4,nto2	
+2.35	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4	fto2,fto4	nto4,nto2	
+2.36	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4	fto2,fto4	nto4,nto2	
+2.37	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.38	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.39	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.40	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.41	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.42	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.43	dtoh,dtor	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.44	dtoh,dtor	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.45	dtoh,dtor	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.46	dtoh	tto2	oto4,oto2	rto4,rto2,rtof	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.47	dtoh	tto2	oto4,oto2	rto4,rto2,rtof	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.48	dtoh	tto2	oto4,oto2	rto4,rto2,rtof	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.49	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.50	dtor	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.51	dtor,dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.52	dtor,dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.53	dtor,dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.54	dtor,dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.55	dtor,dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.56	dtoh	tto2	oto4,oto2	rto4,rto2	htor,hto4,hto2	fto2,fto4	nto4,nto2	
+2.57	dtoh,dtor	tto2	oto4,oto2	rto4,rto2	hto4,hto2	fto2,fto4	nto4,nto2	
+2.58	dtoh,dtor	tto2	oto4,oto2	rto4,rto2	hto4,hto2	fto2,fto4	nto4,nto2	
+2.59	dtoh,dtor	tto2	oto4,oto2	rto4,rto2	hto4,hto2	fto2,fto4	nto4,nto2	
+2.60	dtoh,dtor	tto2	oto4,oto2	rto4,rto2	hto4,hto2	fto2,fto4	nto4,nto2	
+2.61	dtoh,dtor	tto2	oto4,oto2	rto4,rto2	hto4,hto2	fto2,fto4	nto4,nto2	
+2.62	dtoh	tto2	oto4,oto2	rto4,rto2	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.63	dtoh	tto2	oto4,oto2	rto4,rto2	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.64	dtoh	tto2	oto4,oto2	rto4,rto2	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.65	dtoh	tto2	oto4,oto2	rto4,rto2,rtof	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.66	dtoh	tto2	oto4,oto2	rto4,rto2,rtof	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.67	dtoh	tto2	oto4,oto2	rto4,rto2,rtof	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.68	dtoh	tto2	oto4,oto2	rto4,rto2,rtof	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.69	dtoh	tto2	oto4,oto2	rto4,rto2,rtof	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.70	dtoh	tto2	oto4,oto2	rto4,rto2,rtof	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.71	dtoh,dtor	tto2	oto4,oto2	rto4,rto2	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.72	dtoh	tto2	oto4,oto2	rto4,rto2	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.73	dtoh	tto2	oto4,oto2	rto4,rto2	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.74	dtoh	tto2	oto4,oto2	rto4,rto2	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.75	dtoh	tto2	oto4,oto2	rto4,rto2	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.76	dtoh	tto2	oto4,oto2	rto4,rto2	hto4,hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.77	dtoh	tto2,ttoh,tto4	oto4,oto2	rto4,rto2	hto2,htor,htof	fto2,fto4	nto4,nto2	
+2.78		tto2,ttoh,tto4	oto4,oto2	rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+2.79	dtoh	tto2,ttoh,tto4	oto4,oto2	rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+2.80	dtoh	tto2,ttoh,tto4		rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+2.81	dtoh	tto2,ttoh,tto4		rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+3.0	dtoh	tto2,ttoh	oton	rto4,rto2	hto2,htor	fto2,fto4		
+3.1	dtoh	tto2,ttoh	oto4,oto2,oton	rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+3.2	dtoh	tto2,ttoh	oto4,oto2,oton	rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+3.3	dtoh	tto2,ttoh	oto4,oto2	rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+3.4	dtoh	tto2,ttoh	oto4,oto2,oton	rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+3.5	dtoh	tto2,ttoh	oto4,oto2,oton	rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+3.6	dtoh	tto2,ttoh	oto4,oto2,oton	rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+3.7	dtoh	tto2,ttoh	oto4,oto2,oton	rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+3.8	dtoh	tto2,ttoh	oto4,oto2,oton	rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+3.9	dtoh	tto2	oto4,oto2,oton	rto4,rto2	hto2,htor	fto2,fto4	nto4,nto2	
+3.10	dtoh	tto2	oto4,oto2,otoh,otof	rto4,rto2	htor	fto4	nto4,nto2	
+3.11	dtoh	tto2	oto4,oto2,otoh,otof	rto4,rto2	htor	fto4	nto4,nto2	
+3.12	dtoh	tto2	oto4,oto2,otoh,otof	rto4,rto2	htor	fto4	nto4,nto2	
+3.13	dtoh	tto2	oto4,oto2,otoh,otof,oton	rto4,rto2	htor,htof	fto4,fto2	nto4,nto2	
+3.14	dtoh	tto2	oto4,oto2,otoh,otof	rto4,rto2	htor,htof	fto4,fto2	nto4,nto2	
+3.15	dtoh	tto2	oto4,oto2,otoh,otof	rto4,rto2	htor,htof	fto4,fto2	nto4,nto2	
+3.16	dtoh	tto2	oto4,oto2,otoh,otof	rto4,rto2	htor,htof	fto4,fto2	nto4,nto2	
+3.17	dtoh	tto2	oto4,oto2,otoh,otof	rto4,rto2	htor,htof	fto4,fto2	nto4,nto2	
+3.18	dtoh	tto2	oto4,oto2,otoh,otof,oton	rto4,rto2	htor,htof	fto4,fto2	nto4,nto2,ntof	
+3.19	dtoh	tto2	oto4,oto2,otoh,otof,oton	rto4,rto2	htor,htof	fto4,fto2	nto4,nto2,ntof	
+3.20	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fto4,fto2,fton	nto4,nto2	
+3.21	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.22	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.23	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.24	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.25	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.26	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.27	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.28	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.29	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.30	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.31	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.32	dtoh	tto2	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof	fton	nto4,nto2	
+3.33	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otoh,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.34	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.35	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.36	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.37	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.38	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.39	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.40	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.41	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.42	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.43	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.44	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.45	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.46	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.47	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.48	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.49	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.50	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.51	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.52	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.53	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.54	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.55	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.56	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.57	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.58	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.59	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.60	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.61	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.62	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.63	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.64	dtoh	tto2,ttor,ttoh,ttof	oto4,oto2,otof,otor	rto4,rto2	htor,htof,hto2	fton,ftor,fto4	nto4,nto2	
+3.65	dtoh	tto2,ttor,ttoh,tto4	oto4,oto2,otor,otoh	rto2	htor,htof,hto4	fton,ftor	nto4,nto2	
+3.66	dtoh	tto2,ttor,ttoh,tto4	oto4,oto2,otor,otoh	rto2	htor,htof,hto4	fton,ftor	nto4,nto2	
+3.67	dtoh	tto2,ttor,ttoh,tto4	oto4,oto2,otor,otoh	rto2	htor,htof,hto4	fton,ftor	nto4,nto2	
+3.68	dtoh	tto2,ttor,ttoh,tto4	oto4,oto2,otor,otoh	rto2	htor,htof,hto4	fton,ftor	nto4,nto2	
+3.69	dtoh	tto2,ttor,ttoh,tto4	oto4,otor,otoh	rto2	htor,htof,hto4	fton,ftor	nto4,nto2	
+3.70	dtoh	tto2,ttor,ttoh,tto4	oto4,otor,otoh,oto2	rto2	htor,htof,hto4	fton,ftor	nto4,nto2	
+3.71	dtoh	tto2,ttor,ttoh,tto4	oto4,otor,otoh,oto2	rto2	htor,htof,hto4,hto2	fton,ftor	nto4,nto2	
+3.72	dtoh	tto2,ttor,ttoh,tto4	oto4,otor,otoh,oto2	rto2,rtof	htor,hto4,hto2	fto4,fto2	nto4,nto2	
+3.73	dtoh	tto2,ttor,ttoh,tto4	oto4,otor,otoh,oto2	rto2,rtof	htor,hto4,hto2	fto4,fto2	nto4,nto2	
+3.74	dtoh	tto2,ttor,ttoh,tto4	oto4,otor,otoh,oto2	rto2,rtof	htor,hto4,hto2	fto4,fto2	nto4,nto2	
+3.75	dtoh	tto2,ttor,ttoh,tto4	oto4,otor,otoh,oto2	rto2,rtof	htor,hto4,hto2	fto4,fto2	nto4,nto2	
+3.76	dtoh	tto2,ttor,ttoh,tto4	otor,otoh	rtof	htor,hto4,hto2	fto4,fto2	nto4,nto2	
+3.77	dtoh	tto2,ttor,ttoh,tto4	otor,oto4,oto2	rtof	htor	fto4	nto4,nto2	
+3.78	dtoh	tto2,ttor,ttoh,tto4	otor,otoh	rtof	htor	fto4	nto4,nto2	
+3.79	dtoh	tto2,ttor,tto4	otor,otoh	rtof	htor	fto4	nto4,nto2	
+3.80	dtoh	tto2,ttor,tto4	otor,otoh,oto4,oto2	rtof,rto2	htor	fto4	nto4,nto2	
+3.81	dtoh	tto2,ttor,tto4	otor,otoh,oto4,oto2	rtof,rto2	htor,hto4,hto2	fto4	nto4,nto2	
+3.82	dtoh	tto2,ttor,tto4	otor,otoh,oto4,oto2	rto2	htor,hto4		nto4,nto2	
+3.83	dtoh	tto2,ttor,tto4,ttoh	otor,oto4,oto2	rto2	htor,hto4,hto2		nto4,nto2	
+3.84	dtoh	tto2,ttor,tto4,ttoh	otor,oto4,oto2,otoh,oton	rto2	htor,hto4,hto2		nto4,nto2	
+3.85	dtoh	tto2,ttor,tto4,ttoh	otor,oto4,oto2,otoh,oton	rto2	htor,hto4,hto2		nto4,nto2	
+3.86	dtoh	tto2,ttor,tto4,ttoh	otor,oto4,oto2,otoh,oton	rto2	htor,hto4,hto2		nto4,nto2	
+3.87	dtoh,dtof	tto2,ttor,tto4,ttoh,ttof	oto4,otoh,otof	rto2	hto4	fto4,fto2	nto4,nto2	
+3.88	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otoh,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.89	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otoh,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.90	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otoh,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.91	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otoh,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.92	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otoh,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.93	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.94	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.95	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.96	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.97	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.98	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.99	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.100	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.101	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2		hto4,hto2	fto4,fto2	nto4,nto2	
+3.102	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.103	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.104	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.105	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.106	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.107	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.108	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.109	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.110	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.111	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.112	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.113	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.114	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.115	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.116	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.117	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.118	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.119	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.120	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.121	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.122	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.123	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.124	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.125	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.126	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.127	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.128	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.129	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.130	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.131	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.132	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.133	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.134	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.135	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.136	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.137	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.138	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.139	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.140	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.141	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.142	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.143	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.144	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.145	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.146	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.147	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.148	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.149	dtoh	tto2,ttor,tto4,ttoh,ttof	oto4,otof,oto2	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+3.150	dtoh	tto2,ttor,tto4,ttoh,ttof	otof	rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+4.0		tto2,tto4		rto2	hto4,hto2	fto4,fto2	nto4,nto2	
+4.1	dtor	tto2,tto4		rto2,rtof	hto4,hto2	fto4,fto2	nto4,nto2	
+4.2	dtor	tto2,tto4		rto2,rtof	hto4,hto2	fto4,fto2	nto4,nto2	
+4.3	dtor	tto2,tto4		rto2,rtof	hto4,hto2	fto4,fto2	nto4,nto2	
+4.4	dtor	tto2,tto4		rto2,rtof	hto4,hto2	fto4,fto2	nto4,nto2	
+4.5	dtor	tto2,tto4		rto2,rtof,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.6	dtor	tto2,tto4		rto2,rtof,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.7	dtor	tto2,tto4		rto2,rtof,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.8	dto4	tto2,tto4		rto2,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.9	dto4	tto2,tto4		rto2,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.10	dto4	tto2,tto4		rto2,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.11	dto4	tto2,tto4	otor,oto2	rto2,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.12	dto4	tto2,tto4	otor,oto2	rto2,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.13	dto4	tto2,tto4	otor,oto2	rto2,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.14	dto4	tto2,tto4	otor,oto2,oto4,oton	rto2,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.15	dto4	tto2,tto4	otor,oto2,oto4,oton	rto2,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.16	dto4	tto2,tto4	otor,oto2,oto4,oton	rto2,rto4	hto4,hto2	fto4,fto2	nto4,nto2	
+4.17	dtoh	tto2,tto4	otor,oto4,oton	rto2,rtof	hto4,hto2,htor	fto4,fto2	nto4	
+4.18	dtoh	tto2,tto4	otor,oton	rto2,rtof	hto4,hto2,htor	fto4		
+4.19	dtoh,dto4	tto2,tto4	otor,oton,otof,oto4	rto2,rtof,rto4	hto4,hto2,htor	fto4	nto4,nto2	
+4.20	dtoh	tto2,tto4	otor,oton,otof,oto4,oto2	rto2,rtof,rto4	hto4,hto2,htor,htof	fto4,fto2	nto4,nto2	
+4.21		tto2,tto4	otor,oton,otof,oto4,oto2	rto2,rtof,rto4	hto4,hto2,htor	fto4,fto2		
+4.22	dtoh	tto2,tto4	oton,otof,oto4,oto2	rto2,rtof,rto4	htor	fto4,fto2		
+4.23	dtoh,dtor	tto2,tto4	oton,otof,oto4,oto2	rto2,rtof	htor	fto4,fto2		
+4.24	dtoh,dtor	tto2,tto4	oton,otof,oto4,oto2	rto2,rtof	htor	fto4,fto2		
+4.25	dtoh,dtor	tto2,tto4	oton,otof,oto4,oto2	rto2,rtof	htor	fto4,fto2		
+5.0	dtor	tto2,ttoh,ttof	oton,oto4,oto2,otoh	rto2	hto2	fto4,fto2		
+5.1		tto2,ttoh,ttof,ttor,tton,tto4	oton,oto4,oto2,otoh	rto2	hto2,htof	fto4,fto2	ntor,nto4,nto2	
+5.2		tto2,ttoh,ttof,ttor,tton,tto4	oton,oto4,oto2,otoh	rto2	hto2,htof	fto4,fto2	ntor,nto4,nto2	
+5.3		tto2,ttoh,ttof,ttor,tton,tto4	oton,oto4,oto2,otoh	rto2	hto2,htof	fto4,fto2	ntor,nto4,nto2	
+5.4		tto2,ttoh,ttof,ttor,tton,tto4	oton,oto4,oto2,otoh	rto2	hto2,htof	fto4,fto2	ntor,nto4,nto2	
+5.5		tto2,ttoh,ttof,ttor,tton,tto4	oton,oto4,oto2,otoh	rto2	hto2,htof	fto4,fto2	ntor,nto4,nto2	
+5.6		tto2,ttoh,ttof,ttor,tton,tto4	oton,oto4,oto2,otoh	rto2	hto2,htof	fto4,fto2	ntor,nto4,nto2	
+5.7		tto2,ttoh,ttor,tton	oton,oto4,oto2,otor	rto2	hto2,htor	fto4,fto2	ntor	
+5.8		tto2,ttoh,ttor,tton	oton,oto4,oto2,otor	rto2,rto4	hto2,htor	fto4,fto2	ntor	
+5.9		tto2,ttoh,ttor,tton	oton,oto4,oto2,otor	rto2,rto4	hto2,htor	fto4,fto2	ntor	
+5.10		tto2,ttoh,ttor,tton	oton,oto4,oto2,otor	rto2,rto4	hto2,htor	fto4,fto2	ntor	
+5.11		tto2,ttoh,ttor,tton	oton,oto4,oto2,otor	rto2,rto4	hto2,htor	fto4,fto2	ntor	
+5.12	dtoh,dto4	tto2,ttoh,ttor,tton,tto4	oton,oto4,oto2,otor	rto2,rto4	hto2,htor,hto4	fto4,fto2	ntor	
+5.13	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rto4,rtof	hto2,htor,hto4,htof	fto4,fto2	ntor	
+5.14	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rto4,rtof	hto2,htor,hto4,htof	fto4,fto2	ntor	
+5.15	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rto4,rtof	hto2,htor,hto4,htof	fto4,fto2	ntor	
+5.16	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rto4,rtof	hto2,htor,hto4,htof	fto4,fto2	ntor	
+5.17	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rtof	hto2,htor,hto4,htof	fto2	ntor	
+5.18	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rtof	hto2,htor,hto4,htof	fto2	ntor	
+5.19	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rtof	hto2,htor,hto4,htof	fto2	ntor	
+5.20	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rtof	hto2,htor,hto4,htof	fto2	ntor	
+5.21	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rtof	hto2,htor,hto4,htof	fto2	ntor	
+5.22	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rtof	hto2,htor,hto4,htof	fto2	ntor	
+5.23	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rtof	hto2,htor,hto4,htof	fto2	ntor	
+5.24	dtoh,dto4	tto2,ttoh,ttor,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rtof	hto2,htor,hto4,htof	fto2	ntor	
+5.25	dtoh,dto4,dtor	tto2,ttoh,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rtof,rto4	hto2,htor,hto4,htof	fto2	ntor	
+5.26	dtoh,dto4	tto2,ttoh,tton,tto4,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rtof,rto4	hto2,htor,hto4,htof	fto2	ntor	
+6.0	dtoh	tton	oton	rto2,rto4	hto2,hto4	fto2	ntor	
+6.1	dtoh	tton,ttoh	oton,otoh,oto4,oto2	rto2,rto4	hto2,hto4	fto2	ntor	
+6.2	dtoh	tton,ttoh,tto2	oton,otoh,oto4,oto2	rto2,rto4	hto2,hto4	fto2	ntor	
+6.3	dtoh	tton,ttoh,tto2	oton,otoh,oto4,oto2	rto2,rto4	hto2,hto4	fto2	ntor	
+6.4	dtoh	tton,tto2,ttor	oton,oto4,oto2,otor	rto2,rto4	hto2,hto4	fto2	ntor	
+6.5	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.6	dtoh	tton,tto2,ttor,ttoh,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rto4	hto2,hto4,htof	fto2	ntor	
+6.7	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.8	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.9	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.10	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.11	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.12	dtoh	tton,tto2,ttor,ttoh,ttof	oton,oto4,oto2,otor,otoh,otof	rto2,rto4	hto2,hto4	fto2	ntor	
+6.13	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.14	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.15	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.16	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.17	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.18	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.19	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.20	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.21	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.22	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.23	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.24	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.25	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.26	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.27	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.28	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.29	dtoh	tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.30		tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.31		tton,tto2,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rto4	hto2,hto4	fto2	ntor	
+6.32		tton,tto2,ttor	oton,oto4,oto2,otor	rto2,rto4	hto2,hto4,htor	fto2	ntor	
+6.33		tton,tto2,ttor	oton,oto4,oto2,otor	rto2,rto4	hto2,hto4,htor	fto2	ntor	
+7.0		tton,tto2	oton,oto2	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.1	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.2	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.3	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.4	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.5	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.6	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.7	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.8	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.9	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.10	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.11	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.12	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.13	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.14	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.15	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.16	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+7.17	dtor	tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	ntor,nto4	
+8.0		tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	nto4	
+8.1		tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	nto4	
+8.2		tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	nto4	
+8.3		tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	nto4	
+8.4		tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	nto4	
+8.5		tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	nto4	
+8.6		tton,tto2	oton,oto2,oto4	rto2,rto4	hto2,hto4	fto2	nto4	
+8.7		tton,tto2,ttor	oton,oto2,oto4,otor	rto2,rto4	hto2,hto4	fto2	nto4	
+8.8	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.9	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.10	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.11	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.12	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.13	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.14	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.15	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.16	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.17	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.18	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.19	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.20	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.21	dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.22		tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.23		tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.24		tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.25	dtor,dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.26	dtor,dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+8.27	dtor,dtoh	tton,tto2	oton,oto2,oto4	rto4	hto2,hto4,htor	fto2	nto4	
+9.0		tton,tto2	oton,oto2,oto4	rto2	hto2,hto4		nto4	
+9.1	dtor,dto4	tton,tto2,ttor	oton,oto2,oto4,otor	rto2	hto2,hto4,htor		nto4	
+9.2	dtor,dto4	tton,tto2,ttor,ttoh	oton,oto2,oto4,otor	rto2	hto2,hto4,htor		nto4	
+9.3	dtor,dto4	tton,tto2,ttor,ttoh	oton,oto2,oto4,otor	rto2	hto2,hto4,htor		nto4	
+9.4	dtor,dto4	tton,tto2,ttor,ttoh,ttof	oton,oto2,oto4,otor,otof	rto2,rtof	hto2,hto4,htor	fto4,fto2	nto4	
+9.5	dtor,dto4	tton,tto2,ttor,ttoh,ttof	oton,oto2,oto4,otor,otof	rto2	hto2,hto4,htor	fto4,fto2	nto4	
+9.6	dtor,dto4	tton,tto2,ttor,ttoh,ttof	oton,oto2,oto4,otor,otof	rto2	hto2,hto4,htor	fto4,fto2	nto4	
+9.7	dtor,dto4	tton,tto2,ttor,ttoh,ttof	oton,oto2,oto4,otor,otof	rto2	hto2,hto4,htor	fto4,fto2	nto4	
+9.8	dtor,dto4	tton,tto2,ttor,ttoh,ttof	oton,oto2,oto4,otor,otof	rto2	hto2,hto4,htor	fto4,fto2	nto4	
+9.9	dtor,dto4	tton,tto2,ttor,ttoh,ttof	oton,oto2,oto4,otor,otof	rto2	hto2,hto4,htor	fto4,fto2	nto4	
+9.10	dtor,dto4	tton,tto2,ttor,ttoh,ttof	oton,oto2,oto4,otor,otof	rto2	hto2,hto4,htor	fto4,fto2	nto4	
+9.11	dtor,dto4	tton,tto2,ttor,ttoh,ttof	oton,oto2,oto4,otor,otof	rto2	hto2,hto4,htor	fto4,fto2	nto4	
+9.12	dtor,dto4	tton,tto2,ttoh,ttof	oton,oto2,oto4,otof	rto2	hto2,hto4,htor	fto4,fto2	nto4	
+9.13	dtor,dto4	tton,tto2,ttoh,ttof	oton,oto2,oto4,otof	rto2	hto2,hto4,htor,htof,hton	fto4,fto2,fton		
+9.14	dtor,dto4	tton,tto2,ttoh,ttof,tto4	oton,oto2,oto4,otof	rto2	hto2,hto4,htor,htof,hton	fto4,fto2,fton	nto4	
+9.15	dtor,dto4	tton,tto2,ttoh,ttof,tto4	oton,oto2,oto4,otof	rto2	hto2,hto4,htor,htof,hton	fto4,fto2,fton	nto4	
+10.0	dto4,dtoh	tto2	oton,oto4	rto2	hto2,hton	fto2,fton	nto4	
+10.1	dto4,dtoh	tto2	oton,oto4	rto2	hto2,hton	fto2,fton	nto4	
+10.2	dto4,dtoh	tto2	oton,oto4	rto2	hto2,hton	fto2,fton	nto4	
+10.3	dto4,dtoh	tto2	oton,oto4	rto2	hto2,hton	fto2,fton	nto4	
+10.4	dto4,dtoh	tto2	oton,oto4	rto2	hto2,hton	fto2,fton	nto4	
+10.5	dto4,dtoh	tto2	oton,oto4	rto2	hto2,hton	fto2,fton	nto4	
+10.6	dto4,dtoh	tto2	oton,oto4	rto2	hto2,hton	fto2,fton	nto4	
+10.7	dto4,dtoh	tto2	oton,oto4	rto2	hto2,hton	fto2,fton	nto4	
+10.8	dto4,dtoh	tto2	oton,oto4	rto2	hto2,hton	fto2,fton	nto4	
+10.9	dto4,dtoh	tto2	oton,oto4	rto2	hto2,hton	fto2,fton	nto4	
+10.10	dto4	tto2,ttor,ttoh,tto4	oton,oto4,otor,otoh	rto2	hto2,hton,htor,hto4	fto2,fton	nto4	
+10.11	dto4	tto2,ttor,ttoh,tto4	oton,oto4,otor,otoh	rto2	hto2,hton,htor,hto4	fto2,fton	nto4	
+10.12	dto4	tto2,ttor,ttoh	oton,oto4,otor,otoh	rto2	hto2,hton,htor	fto2,fton	nto4	
+10.13	dto4	tto2,ttor,ttoh	oton,oto4,otor,otoh	rto2	hto2,hton,htor	fto2,fton	nto4	
+10.14	dto4,dtoh	tto2,ttor,ttoh	oton,oto4,otor,otoh	rto2	hto2,hton,htor	fto2,fton	nto4	
+10.15	dto4,dtoh	tto2,ttor,ttoh	oton,oto4,otor,otoh	rto2	hto2,hton,htor	fto2,fton	nto4	
+11.0	dto4,dtoh	tto2	oton,oto4,oto2	rto2,rton	hto2,hton	fto2,fton	nto4	
+11.1	dto4,dtoh,dtor	tto2	oton,oto4,oto2	rto2,rton,rtof	hto2,hton	fto2,fton	nto4	
+11.2	dto4,dtoh,dtor	tto2	oton,oto4,oto2	rto2,rton,rtof	hto2,hton	fto2,fton	nto4	
+11.3	dto4,dtoh	tto2	oton,oto4,oto2	rto2,rton,rtof	hto2,hton,htor	fto2,fton	nto4	
+11.4	dto4,dtoh	tto2	oton,oto4,oto2	rto2,rton,rtof	hto2,hton,htor	fto2,fton	nto4	
+11.5	dto4,dtoh,dtor	tto2	oton,oto4,oto2	rto2,rton,rtof	hto2,hton,htor	fto2,fton	nto4	
+11.6	dto4,dtoh,dtor	tto2	oton,oto4,oto2	rto2,rton,rtof	hto2,hton,htor	fto2,fton	nto4	
+11.7	dto4,dtoh,dtor	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton	nto4	
+11.8	dto4,dtoh	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton	nto4	
+11.9	dto4,dtoh	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton	nto4	
+11.10	dto4,dtor	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton	nto4	
+11.11	dto4,dtor	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton	nto4	
+11.12	dto4,dtoh	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton	nto4	
+11.13	dto4,dtoh	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton	nto4	
+11.14	dto4,dtoh	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton,fto4	nto4	
+11.15	dto4,dtoh,dtor	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton,fto4	nto4	
+11.16	dto4,dtoh,dtor	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton,fto4	nto4	
+11.17	dto4,dtoh,dtor	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton,fto4	nto4	
+11.18	dto4,dtoh,dtor	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton,fto4	nto4	
+11.19	dto4,dtoh,dtor	tto2,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hto2,hton,htor	fto2,fton,fto4	nto4	
+12.0	dto4	tto2,tto4	oton,oto4,oto2	rto2,rton	hto2,hton,hto4	fto2,fton	nto4	
+12.1	dto4	tto2,tto4,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rton	hto2,hton,hto4	fto2,fton	nto4	
+12.2	dto4	tto2,tto4,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rton	hto2,hton,hto4	fto2,fton	nto4	
+12.3	dto4	tto2,tto4,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rton	hto2,hton,hto4	fto2,fton	nto4	
+12.4	dto4	tto2,tto4,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rton	hto2,hton,hto4	fto2,fton	nto4	
+12.5	dto4	tto2,tto4,ttor,ttoh	oton,oto4,oto2,otor,otoh	rto2,rton	hto2,hton,hto4	fto2,fton	nto4	
+12.6	dto4,dtoh	tto2,tto4	oton,oto4,oto2	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.7	dto4,dtoh	tto2,tto4	oton,oto4,oto2	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.8	dto4,dtoh	tto2,tto4,ttoh	oton,oto4,oto2,otoh	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.9	dto4,dtoh	tto2,tto4,ttoh	oton,oto4,oto2,otoh	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.10	dto4,dtoh	tto2,tto4,ttoh,ttor	oton,oto4,otoh,otor	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.11	dto4,dtoh	tto2,tto4,ttoh,ttor,ttof	oton,oto4,otoh,otor,otof	rto2,rton	hto2,hton,hto4,htor,htof	fto2,fton	nto4	
+12.12	dto4,dtoh	tto2,tto4,ttoh,ttor	oton,oto4,otoh,otor	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.13	dto4,dtoh	tto2,tto4,ttoh,ttor	oton,oto4,otoh,otor	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.14	dto4,dtoh,dtof	tto2,tto4,ttoh,ttor,ttof	oton,oto4,otoh,otor,otof	rto2,rton	hto2,hton,hto4,htor,htof	fto2,fton	nto4,nto2	
+12.15	dto4,dtoh	tto2,tto4,ttoh,ttor	oton,oto4,otoh,otor	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.16	dto4,dtoh	tto2,tto4,ttoh,ttor	oton,oto4,otoh,otor	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.17	dto4,dtoh	tto2,tto4,ttoh,ttor	oton,oto4,otoh,otor	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.18	dto4,dtoh,dtof	tto2,tto4,ttoh,ttor,ttof	oton,oto4,otoh,otor,otof	rto2,rton	hto2,hton,hto4,htor,htof	fto2,fton	nto4	
+12.19	dto4,dtoh	tto2,tto4,ttoh,ttor	oton,oto4,otoh,otor	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.20	dto4,dtoh	tto2,tto4,ttoh,ttor,ttof	oton,oto4,otoh,otor,otof	rto2,rton	hto2,hton,hto4,htor	fto2,fton	nto4	
+12.21	dto4,dtoh	tto2,tto4	oton,oto4,oto2	rto2,rton	hton,htor	fto2,fton	nto4	
+12.22	dto4,dtoh	tto2,tto4,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hton,htor,hto4,hto2	fto2,fton	nto4	
+12.23	dto4,dtoh	tto2,tto4,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hton,htor,hto4,hto2	fto2,fton	nto4	
+12.24	dto4,dtoh	tto2,tto4,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hton,htor,hto4,hto2	fto2,fton	nto4	
+12.25	dto4,dtoh	tto2,tto4,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hton,htor,hto4,hto2	fto2,fton	nto4	
+12.26	dto4,dtoh	tto2,tto4,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hton,htor,hto4,hto2	fto2,fton	nto4	
+12.27	dto4,dtoh	tto2,tto4,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hton,htor,hto4,hto2	fto2,fton	nto4	
+12.28	dto4,dtoh	tto2,tto4,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hton,htor,hto4,hto2	fto2,fton	nto4	
+12.29	dto4,dtoh	tto2,tto4,ttoh	oton,oto4,oto2,otoh	rto2,rton,rtof	hton,htor,hto4,hto2	fto2,fton	nto4	
+12.30	dto4,dtoh,dtor	tto2,tto4,ttoh,ttor	oton,oto4,oto2,otoh,otor	rto2,rton	hton,htor,hto4,hto2	fto2,fton	nto4	
+12.31	dto4,dtoh	tto2,tto4,ttoh,ttor	oton,oto4,oto2,otoh,otor	rto2,rton	hton,htor,hto4,hto2	fto2,fton	nto4	
+12.32	dto4,dtoh	tto2,tto4,ttoh,ttor	oton,oto4,oto2,otoh,otor	rto2,rton	hton,htor,hto4,hto2	fto2,fton	nto4	
+13.0		tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2	fto2,fton	nto4,nto2	
+13.1	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2	fto2,fton	nto4,nto2	
+13.2	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtof	hton,hto4,hto2	fto2,fton	nto4,nto2	
+13.3	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtof	hton,hto4,hto2	fto2,fton	nto4,nto2	
+13.4	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtof	hton,hto4,hto2	fto2,fton	nto4,nto2	
+13.5	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2	fto2,fton	nto4,nto2	
+13.6	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtoh	hton,hto4,hto2	fto2,fton	nto4,nto2	
+13.7	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtoh,rtof	hton,hto4,hto2,htof	fto2,fton	nto4,nto2	
+13.8	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtoh,rtof	hton,hto4,hto2,htof	fto2,fton	nto4,nto2	
+13.9	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtoh,rtof	hton,hto4,hto2,htof	fto2,fton	nto4,nto2	
+13.10	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtoh,rtof	hton,hto4,hto2,htof	fto2,fton	nto4,nto2	
+13.11	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtoh	hton,hto4,hto2,htof	fto2,fton	nto4,nto2	
+13.12	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtoh	hton,hto4,hto2,htof	fto2,fton	nto4,nto2	
+13.13	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2	fto2,fton	nto4	
+13.14	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtof	hton,hto4,hto2	fto2,fton	nto4	
+13.15	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2	fto2,fton	nto4	
+13.16	dtor,dtof	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtof	hton,hto4,hto2	fto2,fton,fto4	nto4	
+13.17	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2	fto2,fton,fto4	nto4	
+13.18	dtoh	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2,htor	fto2,fton,fto4	nto4	
+13.19		tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtoh	hton,hto4,hto2	fto2,fton,fto4	nto4	
+13.20		tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2	fto2,fton,fto4	nto4	
+13.21		tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtoh	hton,hto4,hto2	fto2,fton,fto4	nto4	
+13.22	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2	fto2,fton,fto4	nto4	
+13.23	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2	fto2,fton,fto4	nto4	
+13.24	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2	fto2,fton,fto4	nto4	
+13.25	dtor	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4	hton,hto4,hto2	fto2,fton,fto4	nto4	
+13.26	dtoh	tto2,tto4	oton,oto4,oto2	rto2,rton,rto4,rtof	hton,hto4,hto2,htor	fto2,fton,fto4	nto4	
