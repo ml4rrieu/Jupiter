@@ -5,6 +5,7 @@
 This repositiry include three programs I have made during my PhD [2] for analyzing *Jupiter*. The goal of them is to represent the routing of the electronic production, *i.e.* all the connection between the modules which takes place during the half an hour of this musical work.
 
 [1] You can find more information (in french) on *Jupiter* on [this website](http://brahms.ircam.fr/works/work/10482/)
+
 [2] available in march of 2018
 
 
