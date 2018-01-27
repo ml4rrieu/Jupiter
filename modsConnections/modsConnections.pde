@@ -136,3 +136,93 @@ void printRouting() {
     if (me.outputs.size() > 0 )  println( me.outputs.join(" "));
   }
 }
+
+//////////////////////////////// CLASSE
+class Module {
+  HashMap <String, DictList> vv;
+  String name, type; 
+  StringList vars, outputs; // used to store state of precedent evt
+
+  Module(String _name, String _type, String var) {
+    vv = new HashMap <String, DictList>(); 
+    vars = new StringList();
+    outputs = new StringList();
+    name = _name; 
+    type = _type;
+
+    String[] cut = splitTokens(var, " ,");
+    for (int i=0; i< cut.length; i++) {
+      vars.append(cut[i]);
+      DictList me = new DictList(cut[i]);
+      vv.put(cut[i], me);
+    }
+  }
+
+  void memorize(String[] line, int indexName ) {
+    int indexValue = indexName+ 1;
+    if (line.length - (indexName+1) > indexName+2) indexValue = indexName+2; //hamp1 0, 127 2000
+
+    vv.get(line[indexName]).list.append( int(line[indexValue]) );
+  }
+
+  void updateAndDeduce() {
+    for (String k : vars.values()) {
+      if (vv.get(k).list.size()>0) vv.get(k).result(); // deduce var value for evt
+      updateOutputs(outputs, k, vv.get(k).result); //update output
+    }
+  }
+
+  void updatePAf2noise() { // for the pafto noise connection (boring !) change noiseX to oton
+    if ( ! outputs.hasValue("oton")) {
+      // si un noise out OU 
+      if (outputs.hasValue("noise1") || outputs.hasValue("noise2") || 
+        outputs.hasValue("noise3") || outputs.hasValue("noise4") || 
+        outputs.hasValue("noise5")) outputs.append("oton");
+    }
+    for(int i=1; i<=5;i++) updateOutputs(outputs,"noise"+str(i),0); // remove noiseX from outputs list 
+  }
+
+
+  void write() {
+    table.setString(table.lastRowIndex(), name, outputs.join(","));
+  }
+}
+
+
+void updateOutputs(StringList list, String item, int state) {
+  // si state = 0 -> remove item from list
+  // si state =1 -> add item from list
+  switch (state ) { 
+    case (0) : 
+    if (list.hasValue(item)) list.remove( list.index(item));
+    break; 
+    case (1) :
+    if (! list.hasValue(item)) list.append(item);
+    break;
+  }
+}
+
+
+
+
+/// personnal class for parse value of var in event
+class DictList {
+  String name; 
+  IntList list; 
+  int result;
+
+  DictList(String n) {
+    name = n; 
+    list = new IntList();
+  }
+
+  void result() {
+    if (list.max() > 0) result = 1; //if one occurencce > 0, its ON
+    if (list.max() == 0) result = 0; // if all ocurencces are 0, its OFF
+    list.clear();
+  }
+
+  void print() {
+    println(name+"(" +list.join(",")+ ")" );
+  }
+}
