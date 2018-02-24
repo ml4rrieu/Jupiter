@@ -1,0 +1,244 @@
+name,module,meaning,occurence,section,dataType,min,max,argNb,text
+addsamp,sampler,"syntax : pitch, velocity, duration, onset, risetime, decaytime, steadystate",101,3,list,,,7,7500 156 1000 90 90 150 110
+addsyn,synth,"Syntax : channelNb, amp1, time1, amp2, time2, pitch, vib-depth, vib-freq, table",381,"3,4",list,,,11,2 1 100 50 300 117 1000 6400 0. 0. 4
+amp1,paf,amplitude level outcoming (before freqShift),33,"1,2,3,13",number,0,156,,
+amp2,paf,amplitude level outcoming (before freqShift),31,"1,2,3,13",number,0,140,,
+amp3,paf,amplitude level outcoming (before freqShift),26,"1,2,3,13",number,0,150,,
+amp4,paf,amplitude level outcoming (before freqShift),25,"1,2,3,13",number,0,150,,
+amp5,paf,amplitude level outcoming (before freqShift),23,"1,2,3,4,5,13",number,0,140,,
+amp6,paf,amplitude level outcoming (before freqShift),20,"1,2,3,4,5",number,0,127,,
+amp7,paf,amplitude level outcoming (before freqShift),15,"1,2,3,4,5",number,0,127,,
+amp8,paf,amplitude level outcoming (before freqShift),13,"1,3,4,5",number,0,120,,
+amparpeg,paf,removed,,,,,,,
+ampgliss,paf,ignored,,,,,,,
+amptutti4,paf,affects the 4 amp of Paf channels,25,"1,2,3,4,5,7,13",number,0,130,,
+amptutti5,paf,affects the 5 amp of Paf channels,1,3,number,0,,,
+amptutti6,paf,affects the 6 amp of Paf channels,3,"3,4",number,0,127,,
+amptutti8,paf,affects all the amp of Paf channels,31,"1,2,3,5,7",number,0,,,
+bw1,paf,bandwidth of the forming (MIDI),8,"1,3,13",number,0,68,,
+bw2,paf,bandwidth of the forming (MIDI),5,"1,3",number,0,54,,
+bw3,paf,bandwidth of the forming (MIDI),4,"1,3",number,43,66,,
+bw4,paf,bandwidth of the forming (MIDI),3,1,number,40,43,,
+bw5,paf,bandwidth of the forming (MIDI),5,"1,2,3",number,55,98,,
+bw6,paf,bandwidth of the forming (MIDI),4,"2,3",number,67,73,,
+bw7,paf,bandwidth of the forming (MIDI),1,3,number,43,,,
+bwarpeg,paf,removed,,,,,,,
+bwgliss,paf,ignored,,,,,,,
+cf1,paf,center frequency (MIDI),11,"1,3,13",number,52,104,,
+cf2,paf,center frequency (MIDI),8,"1,3",number,52,114,,
+cf3,paf,center frequency (MIDI),6,"1,3",number,70,104,,
+cf4,paf,center frequency (MIDI),5,1,number,71,104,,
+cf5,paf,center frequency (MIDI),4,"1,3",number,71,83,,
+cf6,paf,center frequency (MIDI),3,3,number,81,,,
+cf7,paf,center frequency (MIDI),1,3,number,62,,,
+cfarpeg,paf,removed,,,,,,,
+cfgliss,paf,ignored,,,,,,,
+chapo,chapo,syntax : channelNb  frequency(Hz),1092,"6,12",number,0,27,,
+chapo-tab,chapo,defines the wavetable,32,"6,12",number,3,4,,
+chat,chapo,amplitude level outcoming,20,"6,12",number,97,127,,
+dist,spat,unused in the patch,2,1,number,106,,,
+dto4,direct,direct to spat,20,"4,5,6,9,11,12,13",number,0,127,,
+dtof,direct,direct to freqShift,23,all,number,0,127,,
+dtoh,direct,direct to harm,60,"1,2,4,5,6,7,8,9,10,11,12,13",number,0,137,,
+dtor,direct,direct to reverb,76,"1,2,4,5,6,7,8,9,10,11,12,13",number,0,137,,
+env1,paf,specifies an amplitude envelope with points (amp time),42,"3,4,7",list,,,6,"-1, 150 5, 120 900, -2"
+env2,paf,specifies an amplitude envelope with points (amp time),41,"3,4,7",list,,,6,"-1, 150 5, 120 900, -2"
+env3,paf,specifies an amplitude envelope with points (amp time),42,"3,7",list,,,6,"-1, 150 5, 110 500, -2"
+env4,paf,specifies an amplitude envelope with points (amp time),38,"3,4",list,,,6,"-1, 150 5, 110 500, -2"
+env5,paf,specifies an amplitude envelope with points (amp time),39,"3,4",list,,,6,"-1, 150 5, 110 500, -2"
+env6,paf,specifies an amplitude envelope with points (amp time),36,3,list,,,8,"-1, 1 140 56 5, 0 200, -2"
+env7,paf,specifies an amplitude envelope with points (amp time),26,3,list,,,8,"-1, 140 5, 140 200, 0 1000, -2"
+env8,paf,specifies an amplitude envelope with points (amp time),14,3,list,,,6,"-1, 150 5, 0 200, -2"
+evt100,sampler,affects addsamp via the patch,1,3,text,,,,bang
+evt123,,affects addsamp via the patch,2,3,number,0,,,
+evt68,,affects addsyn & addsamp via the patch,1,3,text,,,,bang
+evt76,,affects addsyn & addsamp via the patch,1,3,text,,,,bang
+evt79,sampler,affects addsamp via the patch,2,3,number,0,,,
+evt80,sampler,affects addsamp via the patch,2,3,number,0,,,
+evt83,sampler,affects addsamp via the patch,1,3,text,,,,bang
+evt87,sampler,affects addsamp via the patch,2,3,number,0,,,
+evt88,sampler,affects addsamp via the patch,2,3,number,0,,,
+evt89,sampler,affects addsamp via the patch,2,3,number,0,,,
+evt90,sampler,affects addsamp via the patch,2,3,number,0,,,
+evt91,sampler,affects addsamp via the patch,2,3,number,0,,,
+evt93,sampler,affects addsamp via the patch,1,3,text,,,,bang
+evt94,sampler,affects addsamp via the patch,1,3,text,,,,bang
+evt95,sampler,affects addsamp via the patch,1,3,text,,,,bang
+evt96,sampler,affects addsamp via the patch,1,3,text,,,,bang
+evt97,sampler,affects addsamp via the patch,1,3,text,,,,bang
+evt98,sampler,affects addsamp via the patch,1,3,text,,,,bang
+evt99,sampler,affects addsamp via the patch,1,3,text,,,,bang
+fiddle,,configures [fiddle~],2,1,text,,,,amp-range 60 65 & amp-range 30 40
+fneg,freqShift,amplitude level outcoming from negative channel,141,"1,2,3,4,5,6,9,11,12,13",number,0,127,,
+fnois,noise,Amount of modulation,23,"1,2,3,4,5,7,9,11,12,13",number,2,108,,
+fphase,,Unknown (should have a link with the module phasing),1,13,text,,,,bang
+fpos,freqShift,amplitude level outcoming from positive channel,105,"1,2,3,4,5,6,9,11,12,13",number,0,127,,
+fqarpeg,paf,removed,,,,,,,
+fqgliss,paf,removed,,,,,,,
+fsfre,freqShift,offset frequency (MIDI),174,"1,2,3,4,5,6,9,11,12,13",number,-1000,109,,
+fto2,freqShift,freqShift to fixe,51,all,number,0,127,,
+fto4,freqShift,freqShift to spat,43,"1,2,3,4,5,9,10,11,12,13",number,0,125,,
+fton,freqShift,freqShift to noise,4,"3,9",number,0,120,,
+ftor,freqShift,freqShift to reverb,86,all,number,0,104,,
+hamp1,harmonizer,amplitude level outcoming,164,all,number,0,127,,
+hamp2,harmonizer,amplitude level outcoming,164,all,number,0,127,,
+hamp3,harmonizer,amplitude level outcoming,158,all,number,0,127,,
+hamp4,harmonizer,amplitude level outcoming,154,all,number,0,127,,
+hdel1,harmonizer,initial delay (ms),38,"2,3,5,9,10,11,12",number,0,1500,,
+hdel2,harmonizer,initial delay (ms),38,"2,3,5,9,10,11,12",number,0,1890,,
+hdel3,harmonizer,initial delay (ms),38,"2,3,5,9,10,11,12",number,0,2325,,
+hdel4,harmonizer,initial delay (ms),38,"2,3,5,9,10,11,12",number,0,2890,,
+hfre1,harmonizer,transposition frequency (MIDI cents),46,"2,3,4,5,6,9,10,11,12,13",number,-2800,3497,,
+hfre2,harmonizer,transposition frequency (MIDI cents),46,"2,3,4,5,6,9,10,11,12,13",number,-1200,1987,,
+hfre3,harmonizer,transposition frequency (MIDI cents),45,"2,3,4,5,6,9,10,11,12,13",number,-1600,1678,,
+hfre4,harmonizer,transposition frequency (MIDI cents),45,"2,3,4,5,6,9,10,11,12,13",number,-1600,3158,,
+hto2,harmonizer,harm to quadra,64,all,number,0,138,,
+hto4,freqShift,harm to spat,34,"1,2,3,4,5,6,9,10,12,13",number,0,134,,
+htof,freqShift,harm to freqShift,50,all,number,0,137,,
+hton,freqShift,harm to noise,1,9,number,120,,,
+htor,freqShift,harm to reverb,57,all,number,0,127,,
+hwind,harmonizer,window size (logarithmic MIDI scale : 127 corresponds to 4 sec.),59,all,number,62,77,,
+inatten,direct,flute amplitude level to inject inside routing intern & to phase out,1,1,number,117,,,
+inter1a-rec-debut,sampler,start recording the first rhythmic pattern in pointer. Arguments specify the nb of notes and the nb of playbacks,1,2,number,6,,,
+inter1a-rec-fin,sampler,start recording the second rhythmic pattern in pointer. (The nb of note to be recorded is the one specify in *inter1a-rec-debut* ),1,2,text,,,,bang
+inter1a-start,sampler,"plays file inter1a with PIANO samples ",1,5,text,,,,bang
+inter1c-rec-debut,sampler,,1,2,number,13,,,
+inter1c-rec-fin,sampler,,1,2,text,,,,bang
+inter1c-start,sampler,"plays file inter1c with PIANO samples ",1,5,text,,,,bang
+inter1d-bis-rec-debut,sampler,,1,2,number,23,,,
+inter1d-bis-rec-fin,sampler,,1,2,text,,,,bang
+inter1d-continue,sampler,,6,5,text,,,,bang
+inter1d-rec-debut,sampler,,1,2,number,25,,,
+inter1d-rec-fin,sampler,,1,2,text,,,,bang
+inter1d-start,sampler,"plays file inter1d with PIANO samples ",1,5,text,,,,bang
+inter2a-rec-debut,sampler,,1,7,number,9,,,
+inter2a-rec-fin,sampler,,1,7,text,,,,bang
+inter2a-start,sampler,"plays file inter2a with PIANO samples ",1,9,text,,,,bang
+inter2b-rec-debut,sampler,,1,7,number,9,,,
+inter2b-rec-fin,sampler,,1,7,text,,,,bang
+inter2b-start,sampler,"plays file inter2b with PIANO samples ",1,9,text,,,,bang
+inter2c-start,sampler,,1,9,text,,,,bang
+inter2d-rec-debut,sampler,,1,7,number,10,,,
+inter2d-rec-fin,sampler,,1,7,text,,,,bang
+inter2d-start,sampler,"plays file inter2d with PIANO samples ",1,9,text,,,,bang
+interdel,sampler,stop reading pointers,6,5,text,,,,stop
+kill-reverb-on-70,reverb,Unknown,2,8,number,0,,,
+noise1,paf,Amount of signal to send to noise (pafnoise),11,"1,7,13",number,0,127,,
+noise2,paf,Amount of signal to send to noise (pafnoise),10,"1,7,13",number,0,118,,
+noise3,paf,Amount of signal to send to noise (pafnoise),11,"1,7,13",number,0,118,,
+noise4,paf,Amount of signal to send to noise (pafnoise),4,"1,13",number,0,103,,
+noise5,paf,Amount of signal to send to noise (pafnoise),2,"1,2",number,105,,,
+noisetutti,paf,affects all the noise variables of Paf channels,4,"1,3",number,0,,,
+noisetutti4,paf,affects the 4 noise variables of Paf channels,7,"1,2,4",number,0,127,,
+noisetutti6,paf,affects the 6 noise variables of Paf channels,2,"3,4",number,75,,,
+noisetutti8,paf,affects the 8 noise variables of Paf channels,13,"2,3,13",number,0,127,,
+nto2,noise,noise to quadra,26,"1,2,3,4,5,7,9,11,12,13",number,0,127,,
+nto4,noise,noise to spat,28,"1,2,3,4,5,7,9,11,13",number,0,127,,
+ntof,noise,noise to freqShift,2,3,number,0,,,
+ntor,noise,noise to reverb,2,"5,8",number,0,,,
+ost1-start,sampler,plays file ost1 with TAMTAM samples,1,8,text,,,,bang
+ost2-start,sampler,plays file ost2 with TAMTAM samples,1,8,text,,,,bang
+ost3-start,sampler,plays file ost3 with TAMTAM samples,1,8,text,,,,bang
+ost4-start,sampler,plays file ost4 with TAMTAM samples,1,8,text,,,,bang
+ost4b-start,sampler,plays file ost4b with TAMTAM samples,1,8,text,,,,bang
+ost5-start,sampler,plays file ost5 with FLUTE TONGUE samples,1,10,text,,,,bang
+ost6-start,sampler,plays file ost6 with FLUTE TONGUE samples,1,10,text,,,,bang
+ost7-start,sampler,plays file ost7 with FLUTE TONGUE samples,1,10,text,,,,bang
+ost8-start,sampler,plays file ost8 with FLUTE TONGUE samples,1,10,text,,,,bang
+oto2,osc,osc to quadra,62,all,number,0,140,,
+oto4,osc,osc to spat,49,"1,2,3,4,5,6,7,13",number,0,127,,
+otof,osc,osc to freqShift,9,"3,4,5",number,0,127,,
+otoh,osc,osc to harm,18,"3,5",number,0,153,,
+oton,osc,osc to noise,4,"3,4,12",number,0,127,,
+otor,osc,osc to reverb,9,"1,3,4,5",number,0,127,,
+ph-f1,phasing,"transposition value, hundredth of a half tone",4,"5,6,11,12",number,14,,,
+ph-f2,phasing,"transposition value, hundredth of a half tone",4,"5,6,11,12",number,18,,,
+ph-wind,phasing,window size (ms),4,"5,6,11,12",number,32,45,,
+phto2,phasing,phasing to fixe,11,"5,6,11,12,13",number,0,115,,
+pitch1,paf,fundamental frequency (MIDI),6,"1,3,13",number,4000,8100,,
+pitch2,paf,fundamental frequency (MIDI),5,"1,3",number,4020,7800,,
+pitch3,paf,fundamental frequency (MIDI),5,"1,3",number,5000,8000,,
+pitch4,paf,fundamental frequency (MIDI),5,"1,3",number,5020,6800,,
+pitch5,paf,fundamental frequency (MIDI),5,"1,3",number,4200,8000,,
+pitch6,paf,fundamental frequency (MIDI),3,"1,3",number,4220,8200,,
+pitch7,paf,fundamental frequency (MIDI),2,3,number,4000,6700,,
+pitch8,paf,fundamental frequency (MIDI),1,3,number,7100,,,
+porta,chapo,smoothing time,21,"6,12",number,0,1024,,
+pt-bounce,,Unknown,,,,,,,
+pt-default-bounce,,Unknown,,,,,,,
+pufamp,paf,"distributes values to the *amp* variables with the use of an increment (-1 reset this increment) ",5,"1,3,4,5",list,,,9,"-1, 118, 118, 118, 118, 120, 120, 120, 120"
+pufbw,paf,"distributes values to the *bw* variables with the use of an increment (-1 reset this increment) ",63,"1,2,3,4,5,7,13",list,,,9,"-1, 0, 0, 0, 0, 45, 50, 48, 40"
+pufcf,paf,"distributes values to the *cf* variables with the use of an increment (-1 reset this increment) ",63,"1,2,3,4,5,7,13",list,,,9,"-1, 69, 67, 65, 67, 53, 54, 64, 62"
+puffq_cl,paf,removed,,,,,,,
+pufpitch,paf,"distributes values to the *pitch* variables with the use of an increment (-1 reset this increment) ",66,"1,2,3,4,5,7,13",list,,,9,"-1, 6100, 6120, 5500, 5520, 4400, 4420, 5900, 5300"
+pufvamp,paf,"distributes values to the *vamp* variables with the use of an increment (-1 reset this increment) ",14,"1,2,3,4,5",list,,,9,"-1, 3, 2, 2, 5, 2, 2, 3, 2"
+pufvfreq,paf,"distributes values to the *vfreq* variables with the use of an increment (-1 reset this increment) ",16,"1,2,3,4,5,7",list,,,9,"-1, 13, 84, 88, 99, 40, 112, 101, 51"
+radius,spat,depth of the movements,31,"1,2,3,4,5,6,7,8,9,12,13",number,0,156,,
+revfb,reverb,reverb time (amount of signal to inject inside delay lines) (divided by 254),237,all,number,0,127,,
+rgate,reverb,amplitude level incoming,270,all,number,0,137,,
+rout,reverb,amplitude level outcoming,24,all,number,110,138,,
+rto2,reverb,reverb to fixe,49,all,number,0,135,,
+rto4,reverb,reverb to spat,31,"1,2,3,4,5,8,9,10,11,13",number,0,127,,
+rtof,reverb,reverb to freqShift,114,all,number,0,127,,
+rtoh,reverb,reverb to harm,18,"1,2,4,5,6,7,8,9,10,11,12,13",number,0,127,,
+rton,reverb,reverb to noise,1,11,number,127,,,
+samp-transpose1,sampler,transpose samples,4,"2,3,5,6",number,-500,0,,
+samp-transpose2,sampler,transpose samples,2,"5,6",number,-1000,0,,
+sec2-evt77,,affects addsamp via the patch,3,"2,3",number,0,,,
+sec2-evt78,,affects addsamp via the patch,3,"2,3",number,0,,,
+sec3-evt17,,afects fsfre & spatinc via the patch,2,3,number,0,,,
+sec3-evt32,,start a condition in patch : if 'pitch' equal 60 then bang [sect3-evt33 1<,2,3,number,0,,,
+sec3-evt33,,affects addsamp,2,3,number,0,,,
+section-number,,load qlist of the section specified,12,"1,2,3,4,5,6,7,8,9,10,11,12",number,2,13,,
+section-scofo,,configures [scofo],1,2,text,,,,pitch-accuracy 1
+shift1,paf,negative offset frequency,9,"1,3",number,0,151,,
+shift2,paf,negative offset frequency,11,"1,2,3",number,0,150,,
+shift3,paf,negative offset frequency,14,"1,2,3",number,0,151,,
+shift4,paf,negative offset frequency,16,"1,2,3",number,0,168,,
+shift5,paf,negative offset frequency,14,"1,2,3,4",number,0,130,,
+shift6,paf,negative offset frequency,10,"2,3,4",number,0,128,,
+shift7,paf,negative offset frequency,11,"3,4",number,0,159,,
+shift8,paf,negative offset frequency,8,"3,4",number,0,165,,
+shifttutti,paf,negative offset frequency,1,3,number,0,,,
+spatinc,spat,reading speed of tables (which describe movements),65,"1,2,3,4,5,6,7,8,9,11,12,13",number,-84,130,,
+spatincmax,spat,specifies an interval in which to generate values randomly to spatinc,1,1,number,90,,,
+spaton,spat,select and read  in loop a table. (0 stops the reading of all tables),16,"1,2,3,6,8,9,13",number,0,4,,
+spatupdown,spat,actives the generation of random values to spatinc,2,1,number,0,,,
+sto2,synth,osc + sampler to quadra,5,"1,6,12",number,0,127,,
+sto4,synth,osc + sampler to spat,3,"1,6,12",number,0,127,,
+stof,synth,osc + sampler to freqShift,31,all,number,0,127,,
+stoh,synth,osc + sampler to freqShift,42,"1,2,4,5,6,7,8,9,10,11,12,13",number,0,127,,
+stor,synth,osc + sampler to reverb,29,"1,2,4,5,6,7,8,9,10,11,12,13",number,0,127,,
+testtone,,for testing audio,1,7,number,0,,,
+trans1,harmonizer,set hamp = 127 & hfre = trans,120,"1,2,4,8,11,12,13",number,-3900,3600,,
+trans2,harmonizer,set hamp = 127 & hfre = trans,121,"1,2,4,8,11,12,13",number,-3900,3200,,
+trans3,harmonizer,set hamp = 127 & hfre = trans,106,"1,2,4,8,11,12,13",number,-3400,3200,,
+trans4,harmonizer,set hamp = 127 & hfre = trans,101,"1,2,4,8,11,12,13",number,-3200,2700,,
+tto2,sampler,sampler to quadra,36,"1,2,3,4,5,7,8,9,10,11,13",number,0,127,,
+tto4,sampler,sampler to spat,24,"1,2,3,5,9,10",number,0,120,,
+ttof,sampler,sampler to freqShift,5,"3,5,9",number,0,121,,
+ttoh,sampler,sampler to harm,18,"2,3,5,9",number,0,144,,
+tton,sampler,sampler to noise,3,"5,9,10",number,0,,,
+ttor,sampler,sampler to reverb,7,"3,5",number,0,127,,
+vamp1,paf,vibrato amplitude (divided by 512),1,1,number,0,,,
+vamp2,paf,vibrato amplitude (divided by 512),2,"1,2",number,0,,,
+vamp3,paf,vibrato amplitude (divided by 512),4,"1,3,13",number,0,5,,
+vamp4,paf,vibrato amplitude (divided by 512),2,"1,2",number,0,4,,
+vamp5,paf,vibrato amplitude (divided by 512),3,"1,2",number,0,3,,
+vamp7,paf,vibrato amplitude (divided by 512),1,3,number,0,,,
+vamptutti,paf,affects all vamp variables,3,"2,3",number,0,7,,
+vfreq1,paf,frequency vibrato (divided by 80),1,1,number,0,,,
+vfreq2,paf,frequency vibrato (divided by 80),2,"1,2",number,0,,,
+vfreq3,paf,frequency vibrato (divided by 80),4,"1,3,13",number,0,119,,
+vfreq4,paf,frequency vibrato (divided by 80),2,"1,2",number,0,83,,
+vfreq5,paf,frequency vibrato (divided by 80),3,"1,2",number,0,102,,
+vfreq7,paf,frequency vibrato (divided by 80),1,3,number,0,,,
+vfreqtutti,paf,affects all vfreq variables,3,"2,3",number,0,118,,
+vibdeptharpeg,paf,removed,,,,,,,
+vibdepthgliss,paf,ignored,,,,,,,
+vibfreqarpeg,paf,removed,,,,,,,
+vibfreqgliss,paf,ignored,,,,,,,
+zdist,spat,amount of reverberation to be injected,38,"1,2,3,4,5,6,7,9,11,13",number,0,127,,
+zevfb,spat,reverb time (amount of signal to inject inside delay lines) (divided by 254),61,"1,2,3,4,5,6,7,9,11,12,13",number,0,127,,
+zgate,spat,amplitude level incoming,52,"1,2,3,4,5,6,7,9,11,12,13",number,0,127,,
+zout,spat,amplitude level outcoming,21,"1,2,3,4,5,6,7,9,11,12,13",number,0,127,,
