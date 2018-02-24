@@ -1,0 +1,2377 @@
+
+SECTION 1
+
+
+evt 0
+	hwind 77
+	hto2 0
+	hwind 77
+
+evt 1
+	hto2 127
+	trans1 -600
+	trans2 0
+	trans3 0
+	trans4 0
+
+evt 2
+	trans1 -600
+	trans2 0
+	trans3 0
+	trans4 0
+
+evt 3
+	trans1 -600
+	trans2 -1700
+	trans3 0
+	trans4 0
+
+evt 4
+	trans1 0
+	trans2 -1700
+	trans3 -200
+	trans4 0
+
+evt 5
+	trans1 -600
+	trans2 -1700
+	trans3 -200
+	trans4 -800
+
+evt 6
+	trans1 -1100
+	trans2 -1900
+	trans3 -200
+	trans4 -800
+	300
+	300
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 7
+	125
+	trans1 0
+	125
+	trans2 -600
+	trans3 -900
+	trans4 -1900
+	550
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 8
+	trans2 -400
+	trans3 -900
+	trans4 -1500
+	350
+	150
+	trans1 500
+
+evt 9
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	125
+	trans1 0
+	125
+	trans2 -200
+	125
+	trans3 -800
+	125
+	trans4 0
+	hamp1 0
+	125
+	trans1 1100
+	hamp2 0
+	125
+	trans2 2000
+	hamp3 0
+	125
+	trans3 900
+	hamp4 0
+	125
+	trans4 1500
+	500
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 10
+	trans1 1100
+	trans2 900
+	trans3 500
+	trans4 300
+
+evt 11
+	trans1 500
+	trans2 -200
+	trans3 -600
+	trans4 -800
+	500
+	200
+	300
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 12
+	50
+	250
+	trans1 500
+	250
+	trans2 300
+	250
+	trans3 200
+	250
+	trans4 0
+	4700
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 13
+	hto2 113
+	500
+	trans1 -600
+	375
+	trans2 -600
+	125
+	trans3 -600
+	hamp1 0
+	500
+	trans4 -600
+	hamp2 0
+
+evt 14
+	291
+	trans1 -600
+	hamp3 0
+	167
+	trans2 0
+	hamp4 0
+	167
+	trans3 -300
+	hamp1 0
+	166
+	trans4 -400
+	hamp2 0
+	167
+	trans1 -600
+	hamp3 0
+
+evt 15
+	250
+	trans2 -600
+	hamp4 0
+	125
+	trans3 -600
+	hamp1 0
+	125
+	trans4 -600
+	hamp2 0
+	250
+	trans1 0
+	hamp3 0
+	375
+	trans2 -600
+	hamp4 0
+
+evt 16
+	125
+	trans3 -600
+	hamp1 0
+	125
+	trans4 -600
+	hamp2 0
+	125
+	trans1 -600
+	hamp3 0
+	291
+	trans2 -600
+	hamp4 0
+	334
+	trans3 -600
+	hamp1 0
+	333
+	trans4 -600
+	hamp2 0
+	333
+	trans1 -600
+	hamp3 0
+
+evt 17
+	416
+	trans2 -300
+	hamp4 0
+	167
+	trans3 -400
+	hamp1 0
+	167
+	trans4 0
+	hamp2 0
+	160
+	trans1 -600
+	hamp3 0
+
+evt 18
+	666
+	trans2 -600
+	hamp4 0
+
+evt 19
+	333
+	trans3 -600
+	hamp1 0
+	67
+	trans4 -600
+	hamp2 0
+	400
+	trans1 -600
+	hamp3 0
+	400
+	trans2 -600
+	hamp4 0
+	400
+	trans3 -600
+	hamp1 0
+
+evt 20
+	500
+	trans4 -600
+	hamp2 0
+	1250
+	trans1 -600
+	hamp3 0
+	hamp4 0
+
+evt 21
+	hamp1 0
+	hamp2 0
+
+evt 23
+	trans1 0
+	125
+	trans2 -700
+	125
+	trans3 -1900
+	250
+	hamp1 0
+	hamp2 0
+	hamp3 0
+
+evt 25
+	trans4 -600
+	trans1 0
+	trans2 -1900
+	trans3 -1000
+
+evt 27
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	trans4 -2100
+
+evt 28
+	trans3 -1100
+	125
+	trans2 -600
+	hamp4 0
+	575
+	hamp1 0
+	hamp2 0
+	hamp3 0
+
+evt 29
+	125
+	trans4 400
+	125
+	trans3 1100
+	325
+	hamp3 0
+	hamp4 0
+
+evt 30
+	hto2 119
+	trans2 1700
+	hto2 127
+	125
+	trans1 2300
+	125
+	trans4 2200
+	125
+	trans3 3200
+	125
+	hamp1 0
+	hamp2 0
+	hamp2 0
+	hamp4 0
+
+evt 31
+	trans1 500
+	125
+	trans2 1100
+	125
+	trans3 2200
+	125
+	trans4 400
+	125
+	hamp1 0
+	hamp2 0
+	hamp2 0
+	hamp4 0
+
+evt 32
+	trans1 500
+	125
+	trans2 1000
+	125
+	trans3 1100
+	hamp1 0
+	125
+	trans4 1900
+	hamp2 0
+	125
+	trans1 1700
+	hamp3 0
+	125
+	trans2 1000
+	hamp4 0
+	125
+	trans3 500
+	hamp1 0
+	125
+	trans4 1100
+	hamp2 0
+
+evt 33
+	trans1 500
+	hamp3 0
+	125
+	trans2 700
+	hamp4 0
+	125
+	trans3 1100
+	hamp1 0
+	125
+	trans4 1000
+	hamp2 0
+	125
+	trans1 500
+	hamp3 0
+	125
+	trans2 1900
+	hamp4 0
+
+evt 34
+	trans3 2200
+	hamp1 0
+	125
+	trans4 2300
+	hamp2 0
+	125
+	trans1 2300
+	hamp3 0
+	125
+	trans2 1700
+	hamp4 0
+	625
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 36
+	trans3 0
+	125
+	trans4 500
+	125
+	trans1 500
+	hamp3 0
+	125
+	trans2 0
+	hamp4 0
+	125
+	trans3 1300
+	hamp1 0
+	125
+	trans4 -600
+	hamp2 0
+	125
+	trans1 0
+	hamp3 0
+	125
+	trans2 500
+	hamp4 0
+	125
+	trans3 -100
+	hamp1 0
+	125
+	trans4 -200
+	hamp2 0
+	125
+	trans1 900
+	hamp3 0
+
+evt 37
+	trans3 0
+	hamp4 0
+	125
+	trans4 500
+	hamp1 0
+	125
+	trans1 1800
+	hamp2 0
+	125
+	trans2 100
+	125
+	trans3 200
+	hamp3 0
+	100
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 38
+	125
+	trans4 1100
+	125
+	trans1 1000
+	125
+	trans2 500
+	hamp1 0
+	25
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 39
+	trans3 1000
+	125
+	trans4 2000
+	125
+	trans1 0
+	125
+	trans2 1600
+	125
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 40
+	trans3 0
+	125
+	trans4 1700
+	125
+	trans1 0
+	125
+	trans2 1000
+	125
+	trans3 0
+	125
+	trans4 1100
+	125
+	trans1 0
+	125
+	trans2 2100
+
+evt 41
+	hto2 127
+	125
+	trans1 0
+	hamp3 0
+	125
+	trans2 1700
+	hamp4 0
+	125
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 42
+	trans3 0
+	125
+	trans4 1700
+	125
+	trans1 0
+	125
+	trans2 -1300
+	125
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 43
+	trans3 0
+	125
+	trans4 1300
+	125
+	trans1 1300
+	hamp3 0
+	125
+	trans2 1300
+	hamp4 0
+	125
+	trans3 0
+	hamp1 0
+	125
+	trans4 -500
+	hamp2 0
+	125
+	trans1 -500
+	hamp3 0
+	125
+	trans2 -500
+	hamp4 0
+	125
+	trans4 1000
+	125
+	trans1 -1300
+	125
+	trans2 -1900
+	250
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 44
+	trans3 0
+	125
+	trans4 0
+	125
+	trans1 1300
+	125
+	trans2 1300
+	125
+	trans2 3000
+	125
+	trans2 3000
+	125
+	trans2 1300
+	125
+	trans2 3000
+	125
+	trans2 3000
+	125
+	trans2 3000
+	125
+	trans2 3000
+	250
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 45
+	hto2 127
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+SECTION 2
+
+
+evt 0
+	hwind 77
+	hto2 110
+	hwind 77
+
+evt 1
+	trans1 0
+	trans2 -300
+	trans3 -400
+	950
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 8
+	hto2 120
+	trans1 0
+	trans2 -100
+	trans3 -900
+	trans4 -1100
+
+evt 9
+	500
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 11
+	trans1 0
+	trans2 -400
+	400
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 19
+	250
+	hto2 127
+	trans1 0
+	trans2 -300
+	trans3 100
+	125
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 20
+	hto2 137
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 33
+	hto2 0
+
+evt 34
+	hto2 0
+	trans1 -600
+	trans2 -800
+	trans3 -1500
+	trans4 -1700
+	500
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 35
+	trans1 500
+	trans2 300
+	trans3 0
+	1000
+	hamp1 0
+	hamp2 0
+	hamp3 0
+
+evt 37
+	hto2 120
+	trans1 600
+	150
+	hamp1 0
+
+evt 38
+	trans2 -1800
+	150
+	hamp2 0
+
+evt 39
+	trans3 900
+	150
+	hamp3 0
+
+evt 40
+	trans4 800
+	150
+	hamp4 0
+
+evt 41
+	trans1 1400
+	150
+	hamp1 0
+
+evt 49
+	hto2 127
+	trans1 0
+	100
+	trans2 -100
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 -100
+	hamp2 0
+	100
+	trans1 0
+	hamp3 0
+	100
+	trans2 -100
+	hamp4 0
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 -100
+	hamp2 0
+	100
+	trans1 500
+	hamp3 0
+	100
+	trans2 -100
+	hamp4 0
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 -100
+	hamp2 0
+	100
+	trans1 -1100
+	hamp3 0
+	100
+	trans2 0
+	hamp4 0
+	100
+	trans3 1100
+	hamp1 0
+	100
+	trans4 -600
+	hamp1 0
+	100
+	trans1 0
+	hamp2 0
+	100
+	trans2 2200
+	hamp3 0
+	100
+	trans3 1900
+	hamp4 0
+	100
+	trans4 -100
+	hamp1 0
+	100
+	trans1 0
+	hamp2 0
+
+evt 50
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 51
+	trans1 0
+	100
+	trans2 1900
+	100
+	trans3 -400
+	hamp1 0
+	100
+	trans4 0
+	hamp2 0
+	100
+	trans1 0
+	hamp3 0
+	100
+	trans2 -100
+	hamp4 0
+	100
+	trans3 400
+	hamp1 0
+	100
+	trans4 0
+	hamp2 0
+
+evt 52
+	trans1 0
+	hamp3 0
+	100
+	trans2 0
+	hamp4 0
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 0
+	hamp2 0
+	100
+	trans1 -600
+	hamp3 0
+	100
+	trans2 0
+	hamp4 0
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 1700
+	hamp2 0
+	100
+	trans1 0
+	hamp3 0
+	100
+	trans2 100
+	hamp4 0
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 -1400
+	hamp2 0
+	100
+	trans1 1100
+	hamp3 0
+	100
+	trans2 700
+	hamp4 0
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 0
+	hamp2 0
+	100
+	trans1 600
+	hamp3 0
+	300
+	trans2 -100
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 0
+	hamp2 0
+
+evt 53
+	trans1 1600
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	100
+	trans2 -1600
+	hamp4 0
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 -900
+	hamp2 0
+	100
+	trans1 1700
+	hamp3 0
+	100
+	trans2 -700
+	hamp4 0
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 0
+	hamp2 0
+	100
+	trans1 0
+	hamp3 0
+	100
+	trans2 -700
+	hamp4 0
+	100
+	trans3 -700
+	hamp1 0
+	100
+	trans4 -700
+	hamp2 0
+	100
+	trans1 1000
+	hamp3 0
+	100
+	trans2 0
+	hamp4 0
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 1700
+	hamp2 0
+	100
+	trans1 1100
+	hamp3 0
+	100
+	trans2 900
+	hamp4 0
+	100
+	trans3 -700
+	hamp1 0
+	100
+	trans4 0
+	hamp2 0
+
+evt 54
+	trans1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	100
+	trans2 -700
+	hamp4 0
+	100
+	trans3 -1400
+	hamp1 0
+	100
+	trans4 -2000
+	hamp2 0
+	100
+	trans1 0
+	hamp3 0
+	100
+	trans2 -700
+	hamp4 0
+	100
+	trans3 -1100
+	hamp1 0
+	100
+	trans4 -2100
+	hamp2 0
+	100
+	trans1 -2900
+	hamp3 0
+	100
+	trans2 0
+	hamp4 0
+	100
+	trans3 -1600
+	hamp1 0
+	100
+	trans4 -3000
+	hamp2 0
+	100
+	trans1 -2500
+	hamp3 0
+	100
+	trans2 -3900
+	hamp4 0
+	100
+	trans3 -3400
+	hamp1 0
+	100
+	trans4 -3200
+	hamp2 0
+	100
+	trans1 -3900
+	hamp3 0
+	100
+	trans2 -2800
+	hamp4 0
+	100
+	trans3 -2500
+	hamp1 0
+	100
+	hamp2 0
+	hamp3 0
+
+evt 56
+	trans1 0
+	100
+	trans2 0
+	100
+	trans3 300
+	hamp1 0
+	100
+	trans4 0
+	hamp2 0
+	100
+	trans1 0
+	hamp3 0
+	100
+	trans2 300
+	hamp4 0
+	100
+	trans3 0
+	hamp1 0
+	100
+	trans4 0
+	hamp2 0
+	100
+	trans1 -1800
+	hamp3 0
+	100
+	trans2 -1300
+	hamp4 0
+	100
+	trans3 -900
+	hamp1 0
+	100
+	trans4 -500
+	hamp2 0
+	100
+	trans1 0
+	hamp3 0
+	100
+	trans2 900
+	hamp4 0
+	100
+	trans3 1300
+	hamp1 0
+	100
+	trans4 2100
+	hamp2 0
+
+evt 57
+	trans1 0
+	hamp3 0
+	hamp4 0
+
+evt 58
+	hamp1 0
+
+evt 60
+	trans1 -600
+
+evt 61
+	trans2 -1700
+
+evt 62
+	trans3 -2000
+	trans4 -3000
+	100
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 65
+	trans1 500
+
+evt 66
+	trans2 1600
+	hamp1 0
+	300
+	hamp2 0
+
+evt 68
+	trans3 1700
+
+evt 69
+	trans4 2100
+	300
+	hamp3 0
+	hamp4 0
+
+evt 73
+	trans1 2800
+
+evt 74
+	trans2 2200
+	hamp1 0
+	300
+	hamp2 0
+
+evt 77
+	hto2 112
+	hfre1 0
+	hfre2 0
+	hfre3 0
+	hfre4 0
+	hdel1 300
+	hdel2 596
+	hdel3 780
+	hdel4 1258
+
+evt 78
+	hamp1 127
+
+evt 79
+	hamp2 127
+	200
+	2000
+	hamp3 0
+	4000
+	hamp4 0
+
+SECTION 3
+
+
+evt 0
+	hto2 102
+	hwind 77
+	hfre1 0
+	hfre2 0
+	hfre3 0
+	hfre4 0
+	hdel1 100
+	hdel2 220
+	hdel3 330
+	hdel4 440
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+
+evt 10
+	hfre1 0
+	hfre2 0
+	hfre3 0
+	hfre4 0
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hto2 0
+
+evt 18
+	hfre1 20
+	hfre2 -16
+	hfre3 11
+	hfre4 -15
+
+evt 33
+	100
+	hfre1 0
+	hfre2 0
+	hfre3 0
+	hfre4 0
+	hdel1 100
+	hdel2 455
+	hdel3 789
+	hdel4 1253
+	hto2 96
+
+evt 65
+	hto2 0
+	hfre1 7
+	hfre2 -6
+	hfre3 -13
+	hfre4 13
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hdel1 50
+	hdel2 150
+	hdel3 250
+	hdel4 350
+
+evt 69
+	100
+	100
+	100
+	300
+	100
+	120
+	140
+	160
+	160
+	hto2 0
+
+evt 71
+	100
+	100
+	100
+	hto2 110
+	hfre1 22
+	hfre2 -24
+
+evt 75
+	140
+	200
+	120
+	100
+	200
+	100
+	100
+	100
+	100
+	100
+	100
+	130
+	130
+	130
+	130
+	130
+	130
+	hto2 115
+
+evt 76
+	hfre1 0
+	hfre2 0
+	hfre3 0
+	hfre4 0
+	hdel1 1500
+	hdel2 1890
+	hdel3 2325
+	hdel4 2890
+
+evt 77
+	hto2 0
+	100
+	100
+	100
+	100
+	hdel1 100
+	hdel2 200
+	hdel3 300
+	hdel4 400
+
+evt 81
+	150
+	2200
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	hto2 100
+
+evt 82
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	hto2 0
+
+evt 83
+	hto2 120
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+	100
+	100
+	100
+	hto2 100
+
+evt 84
+	100
+	100
+	100
+	100
+	100
+	hto2 127
+
+evt 87
+	100
+	100
+	100
+	hto2 0
+	hto2 0
+
+evt 88
+	130
+	130
+	130
+	130
+	100
+	hto2 105
+
+evt 93
+	100
+	500
+	800
+	hfre1 0
+	hfre2 0
+	hfre3 0
+	hfre4 0
+	hdel1 700
+	hdel2 900
+	hdel3 1100
+	hdel4 1300
+	hto2 90
+
+evt 123
+	hto2 97
+
+SECTION 4
+
+
+evt 0
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	hto2 127
+	hwind 77
+
+evt 17
+	trans1 0
+	trans2 -300
+	trans3 -500
+	trans4 -1300
+
+evt 19
+	trans1 0
+	trans2 -500
+	trans3 -1100
+	trans4 -1600
+	400
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 20
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+	hto2 120
+
+evt 21
+	1500
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 22
+	hto2 0
+	trans1 1200
+	trans2 1100
+
+SECTION 5
+
+
+evt 0
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	hto2 92
+	hwind 77
+
+evt 1
+	hto2 100
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+
+evt 6
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 7
+	hto2 118
+	hwind 67
+	hamp1 120
+	hamp2 120
+	hamp3 120
+	hamp4 120
+	hfre1 3497
+	hfre2 1987
+	hfre3 746
+	hfre4 0
+	hdel1 585
+	hdel2 292
+	hdel3 371
+	hdel4 292
+
+evt 12
+	hto2 104
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+SECTION 6
+
+
+evt 0
+	100
+	hto2 120
+
+evt 1
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+
+evt 4
+	hto2 138
+
+evt 5
+	hto2 127
+
+SECTION 7
+
+
+evt 0
+	100
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	hto2 127
+	hwind 77
+
+SECTION 8
+
+
+evt 0
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	hto2 127
+	hwind 77
+
+evt 8
+	hto2 104
+	hwind 77
+	trans1 900
+	trans2 800
+	trans3 -1100
+	trans4 1100
+
+evt 9
+	trans1 0
+	trans2 -600
+	trans3 -1000
+	trans4 -1600
+
+evt 10
+	trans1 0
+	trans2 -400
+	trans3 -600
+	trans4 -1100
+
+evt 11
+	trans1 -300
+	trans2 -500
+	trans3 -900
+	trans4 -1400
+
+evt 12
+	trans1 1100
+	trans2 800
+	trans3 200
+	trans4 0
+
+evt 13
+	trans1 -1200
+	trans2 -1200
+	trans3 -1200
+	trans4 -1200
+
+evt 15
+	trans1 0
+	trans2 -200
+	trans3 -1100
+	trans4 -1300
+
+evt 16
+	trans1 800
+	trans2 0
+	trans3 -500
+	trans4 1000
+
+evt 17
+	trans1 0
+	trans2 -200
+	trans3 -1000
+	trans4 1300
+
+evt 18
+	trans1 -100
+	trans2 -200
+	trans3 -300
+	trans4 400
+
+evt 19
+	trans1 0
+	trans2 -800
+	trans3 -1000
+	trans4 1600
+
+evt 20
+	trans1 2200
+	trans2 1600
+	trans3 1100
+	trans4 0
+
+evt 21
+	trans1 900
+	trans2 700
+	trans3 0
+	trans4 -400
+
+evt 22
+	trans1 600
+	trans2 600
+	trans3 0
+	trans4 0
+
+evt 23
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 25
+	trans1 1300
+	250
+	trans2 2000
+	550
+	trans3 600
+	450
+	trans4 1600
+
+evt 26
+	200
+	trans1 2200
+	500
+	trans2 100
+	1175
+	trans3 800
+
+evt 27
+	600
+	trans1 3600
+	hamp3 0
+	1300
+	trans2 3200
+
+SECTION 9
+
+
+evt 0
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	hto2 116
+	hwind 77
+
+evt 1
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 3497
+	hfre2 1987
+	hfre3 746
+	hfre4 -91
+	hdel1 585
+	hdel2 292
+	hdel3 371
+	hdel4 292
+
+evt 5
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	100
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 1987
+	hfre2 1537
+	hfre3 657
+	hfre4 -210
+	hdel1 195
+	hdel2 244
+	hdel3 312
+	hdel4 146
+
+evt 6
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	100
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 348
+	hfre2 746
+	hfre3 1403
+	hfre4 3158
+	hdel1 146
+	hdel2 195
+	hdel3 263
+	hdel4 107
+
+evt 7
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	100
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 840
+	hfre2 1537
+	hfre3 1678
+	hfre4 2155
+	hdel1 195
+	hdel2 117
+	hdel3 175
+	hdel4 68
+
+evt 8
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	100
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 348
+	hfre2 746
+	hfre3 1403
+	hfre4 3158
+	hdel1 146
+	hdel2 195
+	hdel3 263
+	hdel4 107
+
+evt 9
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	100
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 1987
+	hfre2 1537
+	hfre3 657
+	hfre4 -210
+	hdel1 195
+	hdel2 244
+	hdel3 312
+	hdel4 146
+
+evt 10
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	100
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 3497
+	hfre2 1987
+	hfre3 746
+	hfre4 -91
+	hdel1 585
+	hdel2 292
+	hdel3 371
+	hdel4 292
+
+evt 11
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	100
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+evt 12
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	100
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 3497
+	hfre2 1987
+	hfre3 746
+	hfre4 -91
+	hdel1 585
+	hdel2 292
+	hdel3 371
+	hdel4 292
+
+evt 13
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hwind 77
+	hfre1 1100
+	hfre2 -1100
+	hfre3 600
+	hfre4 -600
+	hdel1 200
+	hdel2 290
+	hdel3 371
+	hdel4 485
+	hto2 116
+	6200
+	3100
+	8200
+	hto2 127
+
+evt 14
+	hdel1 100
+	hdel2 160
+	hdel3 225
+	hdel4 347
+	hto2 120
+
+SECTION 10
+
+
+evt 0
+	hto2 112
+	hwind 62
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -2800
+	hfre2 -1200
+	hfre3 -1600
+	hfre4 -1600
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+evt 10
+	hto2 120
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 3497
+	hfre2 1987
+	hfre3 746
+	hfre4 -91
+	hdel1 585
+	hdel2 292
+	hdel3 371
+	hdel4 292
+
+evt 11
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 12
+	hto2 112
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 1987
+	hfre2 1537
+	hfre3 657
+	hfre4 -210
+	hdel1 195
+	hdel2 244
+	hdel3 312
+	hdel4 146
+
+evt 13
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 14
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 348
+	hfre2 746
+	hfre3 1403
+	hfre4 3158
+	hdel1 70
+	hdel2 140
+	hdel3 210
+	hdel4 280
+	hto2 112
+	16600
+	hto2 127
+	600
+	hto2 112
+
+SECTION 11
+
+
+evt 0
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	hto2 115
+	hwind 77
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 348
+	hfre2 746
+	hfre3 1403
+	hfre4 3158
+	hdel1 146
+	hdel2 195
+	hdel3 263
+	hdel4 107
+
+evt 3
+	trans1 -1100
+	trans2 -1100
+	trans3 -1100
+	trans4 -1100
+
+evt 4
+	100
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 5
+	trans1 600
+	trans2 600
+	300
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 7
+	hwind 77
+	trans1 -1100
+	trans2 -1100
+	trans3 -1100
+	trans4 -1100
+
+evt 8
+	trans1 -1100
+	trans2 -1100
+	trans3 -1100
+	trans4 -1100
+
+evt 9
+	300
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 10
+	trans1 600
+	trans2 600
+	trans3 600
+	trans4 600
+
+evt 12
+	trans1 600
+	trans2 600
+
+evt 13
+	trans3 -1100
+	trans4 -1100
+	hamp1 0
+	hamp2 0
+
+evt 14
+	400
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 15
+	trans1 0
+	trans2 0
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 18
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+SECTION 12
+
+
+evt 0
+	hto2 127
+
+evt 1
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+evt 3
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 4
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+evt 5
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	200
+	hwind 77
+
+evt 6
+	trans1 1500
+	125
+	trans2 2100
+	125
+	trans3 3200
+	125
+	trans4 1400
+
+evt 7
+	trans1 1500
+	125
+	trans2 2100
+	125
+	trans3 3200
+	125
+	trans4 1400
+
+evt 8
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+evt 10
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+
+evt 13
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -543
+	hfre2 -22
+	hfre3 -828
+	hfre4 17
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+evt 15
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 672
+	hfre2 651
+	hfre3 57
+	hfre4 29
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+evt 16
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 672
+	hfre2 651
+	hfre3 57
+	hfre4 29
+
+evt 18
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 3497
+	hfre2 1987
+	hfre3 746
+	hfre4 -91
+	hdel1 585
+	hdel2 292
+	hdel3 371
+	hdel4 292
+
+evt 19
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 672
+	hfre2 651
+	hfre3 57
+	hfre4 29
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+evt 20
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+	1500
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 21
+	30
+	500
+	hto2 0
+	170
+	hwind 77
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 22
+	hto2 120
+	trans1 1200
+	125
+	trans2 700
+	125
+	trans3 1800
+	hamp1 0
+	125
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	100
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+evt 23
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	200
+	hwind 77
+
+evt 24
+	trans4 1000
+	hamp2 0
+	125
+	trans1 1500
+	hamp3 0
+	125
+	trans2 200
+	hamp4 0
+	125
+	trans3 1900
+	hamp1 0
+	125
+	trans4 800
+	hamp2 0
+	175
+	hamp3 0
+	hamp4 0
+	75
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+evt 26
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	125
+	hwind 77
+	trans1 1700
+	hamp3 0
+	125
+	trans2 1200
+	hamp4 0
+	125
+	hamp1 0
+	hamp2 0
+	125
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+evt 28
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	125
+	trans3 -400
+	hamp1 0
+	hwind 77
+	125
+	trans4 -300
+	hamp2 0
+	125
+	trans1 700
+	hamp3 0
+	125
+	trans2 0
+	hamp4 0
+	125
+	hamp1 0
+	hamp2 0
+	125
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+	hdel1 0
+	hdel2 0
+	hdel3 0
+	hdel4 0
+
+SECTION 13
+
+
+evt 0
+	hamp1 0
+	hamp2 0
+	hamp3 0
+	hamp4 0
+	hto2 127
+	hwind 77
+
+evt 1
+	hwind 77
+
+evt 6
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+
+evt 7
+	hto2 88
+
+evt 11
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+
+evt 13
+	200
+	hwind 77
+
+evt 18
+	trans1 -1200
+	hamp2 0
+	hamp3 0
+	hamp4 0
+
+evt 19
+	hto2 138
+	hamp1 0
+	100
+	hwind 67
+	hamp1 127
+	hamp2 127
+	hamp3 127
+	hamp4 127
+	hfre1 -18
+	hfre2 -6
+	hfre3 16
+	hfre4 17
+
+evt 22
+	300
+	hwind 77
+
+evt 26
+	50
+	100
+	trans1 1900
+	100
+	trans2 -1300
+	hamp1 0
+	100
+	hamp2 0
+	trans3 2800
+	100
+	trans4 2700
+	100
+	trans1 2100
+	hamp3 0

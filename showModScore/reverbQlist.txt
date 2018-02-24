@@ -1,0 +1,1324 @@
+
+SECTION 1
+
+
+evt 0
+	revfb 0
+	rout 127
+
+evt 1
+	rgate 117
+	revfb 127
+	950
+	rgate 0
+
+evt 3
+	rgate 117
+	revfb 127
+	600
+	rgate 0
+
+evt 4
+	rgate 117
+	revfb 127
+	600
+	rgate 0
+
+evt 5
+	rgate 117
+	revfb 127
+	600
+	rgate 0
+
+evt 6
+	rgate 137
+	revfb 97
+	300
+	revfb 127
+	300
+	rgate 0
+	3400
+	revfb 112
+
+evt 7
+	revfb 0
+	125
+	125
+	rgate 107
+	revfb 127
+	550
+	rgate 0
+
+evt 8
+	rgate 107
+	revfb 127
+	350
+	rgate 0
+	150
+	rgate 107
+	revfb 127
+	300
+	rgate 0
+
+evt 9
+	rgate 117
+	revfb 127
+	125
+	125
+	125
+	125
+	125
+	125
+	125
+	125
+	500
+	1000
+	rgate 0
+
+evt 10
+	revfb 116
+
+evt 11
+	500
+	200
+	300
+	revfb 112
+
+evt 12
+	revfb 80
+	50
+	rout 116
+	rgate 127
+	revfb 127
+	250
+	250
+	250
+	250
+	4700
+	rgate 0
+
+evt 22
+	500
+	revfb 112
+
+evt 23
+	rout 127
+	rgate 127
+	revfb 123
+
+evt 26
+	revfb 80
+
+evt 27
+	rgate 127
+	revfb 127
+	30
+	30
+	30
+	600
+	rgate 0
+
+evt 28
+	rgate 127
+	revfb 127
+	125
+	575
+	rgate 0
+
+evt 29
+	125
+	rgate 137
+	revfb 127
+	125
+	325
+	rgate 0
+
+evt 31
+	125
+	125
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+
+evt 32
+	125
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	125
+	rgate 0
+
+evt 33
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	125
+	rgate 0
+	125
+	rgate 117
+	revfb 127
+
+evt 34
+	rgate 0
+
+evt 36
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	125
+	rgate 0
+
+evt 37
+	125
+	125
+	125
+	125
+	rgate 117
+	revfb 127
+	100
+	rgate 0
+
+evt 38
+	125
+	125
+	125
+	rgate 117
+	revfb 127
+	25
+	rgate 0
+
+evt 39
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+
+evt 40
+	125
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+
+evt 41
+	rgate 0
+	125
+	rgate 117
+	revfb 127
+	125
+	125
+	rgate 0
+
+evt 42
+	125
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+
+evt 43
+	125
+	125
+	125
+	125
+	125
+	125
+	125
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	250
+	rgate 0
+
+evt 46
+	125
+	125
+	revfb 112
+
+evt 48
+	rgate 127
+	rout 127
+	revfb 127
+	100
+	rgate 0
+
+evt 49
+	rgate 127
+	revfb 127
+	1000
+	rgate 0
+
+evt 87
+	100
+	revfb 118
+
+evt 88
+	30
+	30
+	30
+	rgate 127
+	revfb 127
+	200
+	rgate 0
+
+evt 89
+	30
+	30
+	30
+	rgate 127
+	revfb 123
+
+evt 91
+	revfb 118
+
+evt 98
+	30
+	30
+	revfb 118
+
+evt 107
+	revfb 118
+
+SECTION 2
+
+
+evt 0
+	revfb 0
+	rout 127
+
+evt 1
+	rgate 117
+	revfb 127
+
+evt 2
+	rgate 0
+
+evt 3
+	revfb 112
+
+evt 7
+	revfb 104
+
+evt 8
+	rgate 127
+	revfb 100
+
+evt 10
+	revfb 112
+
+evt 11
+	rgate 117
+	revfb 127
+	400
+	rgate 0
+
+evt 18
+	revfb 112
+
+evt 19
+	rgate 117
+	revfb 127
+
+evt 20
+	rgate 0
+
+evt 24
+	revfb 64
+
+evt 25
+	rgate 117
+	revfb 127
+
+evt 26
+	100
+	rgate 0
+
+evt 30
+	666
+	revfb 112
+
+evt 31
+	rgate 117
+	revfb 127
+
+evt 32
+	rgate 0
+
+evt 33
+	revfb 112
+
+evt 34
+	rgate 117
+	revfb 127
+	500
+	rgate 0
+
+evt 35
+	rgate 127
+	revfb 127
+	1000
+	rgate 0
+
+evt 36
+	revfb 112
+
+evt 37
+	rgate 117
+	revfb 127
+	150
+	rgate 0
+
+evt 38
+	rgate 117
+	revfb 127
+	150
+	rgate 0
+
+evt 39
+	rgate 117
+	revfb 127
+	150
+	rgate 0
+
+evt 40
+	rgate 117
+	revfb 127
+
+evt 41
+	150
+	rgate 0
+
+evt 42
+	revfb 112
+
+evt 43
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 44
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 45
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 49
+	revfb 112
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	rgate 117
+	revfb 127
+	100
+	rgate 0
+	100
+	100
+	100
+	rgate 117
+	revfb 127
+	100
+	rgate 0
+	100
+	rgate 117
+	revfb 127
+	100
+	100
+	rgate 0
+	100
+	rgate 117
+	revfb 127
+
+evt 50
+	rgate 117
+	revfb 118
+
+evt 56
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	rgate 127
+	revfb 112
+
+evt 57
+	rgate 107
+	revfb 127
+	200
+	rgate 0
+
+evt 58
+	revfb 118
+
+evt 59
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 60
+	rgate 117
+	revfb 127
+
+evt 62
+	100
+	rgate 0
+
+evt 64
+	revfb 112
+
+evt 65
+	rgate 127
+	revfb 127
+	100
+	rgate 0
+
+evt 66
+	rgate 127
+	300
+	rgate 0
+
+evt 68
+	rgate 117
+	revfb 127
+
+evt 69
+	300
+	rgate 0
+
+evt 70
+	revfb 112
+
+evt 71
+	rgate 127
+	revfb 127
+
+evt 72
+	rgate 0
+
+evt 73
+	rout 127
+	rgate 117
+	revfb 127
+
+evt 74
+	300
+	rgate 0
+
+evt 76
+	revfb 112
+
+SECTION 3
+
+
+evt 0
+	rout 127
+
+evt 1
+	revfb 64
+
+evt 33
+	100
+	revfb 116
+	rgate 127
+
+evt 65
+	rgate 127
+	rout 127
+	revfb 120
+
+evt 66
+	revfb 116
+
+evt 70
+	100
+	100
+	140
+	160
+	revfb 112
+
+evt 72
+	100
+	100
+	100
+	revfb 116
+
+evt 73
+	revfb 124
+
+evt 74
+	revfb 116
+
+evt 75
+	revfb 110
+
+evt 77
+	100
+	100
+	100
+	rgate 97
+	revfb 127
+	100
+	rgate 0
+
+evt 80
+	100
+	100
+	150
+	150
+	150
+	revfb 110
+	rgate 127
+
+evt 82
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	rgate 97
+	revfb 127
+	100
+	rgate 0
+
+evt 83
+	rgate 127
+	revfb 104
+
+evt 84
+	revfb 104
+
+evt 87
+	100
+	100
+	100
+	revfb 104
+
+evt 89
+	130
+	130
+	3500
+	revfb 104
+
+evt 90
+	revfb 104
+
+evt 91
+	revfb 104
+
+evt 92
+	revfb 104
+
+evt 93
+	revfb 104
+
+evt 102
+	250
+	rout 130
+	revfb 127
+	rgate 127
+	125
+	200
+	rgate 0
+
+evt 105
+	revfb 120
+
+evt 146
+	rgate 0
+
+SECTION 4
+
+
+evt 0
+	revfb 104
+	rout 127
+
+evt 1
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 2
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 3
+	rgate 117
+	revfb 127
+	300
+	rgate 0
+
+evt 4
+	revfb 118
+
+evt 5
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 6
+	rgate 117
+	revfb 127
+	300
+	rgate 0
+
+evt 7
+	revfb 118
+
+evt 11
+	revfb 120
+	rout 127
+	rgate 127
+
+evt 16
+	revfb 112
+
+evt 17
+	rgate 117
+	revfb 127
+	300
+	rgate 0
+
+evt 18
+	revfb 112
+
+evt 19
+	rout 138
+	rgate 126
+	revfb 127
+	400
+	rgate 0
+
+evt 21
+	revfb 120
+
+evt 22
+	rgate 117
+	revfb 127
+	300
+	rgate 0
+
+evt 23
+	rout 138
+	rgate 117
+	revfb 127
+	500
+	rgate 0
+
+evt 24
+	revfb 122
+
+SECTION 5
+
+
+evt 0
+	rout 127
+	rgate 117
+	revfb 127
+	500
+	rgate 0
+	revfb 127
+	3500
+	revfb 122
+
+evt 1
+	rgate 127
+
+evt 6
+	revfb 115
+
+evt 8
+	revfb 70
+	100
+	rgate 117
+	revfb 127
+	400
+	rgate 0
+
+evt 9
+	revfb 70
+	100
+	rgate 107
+	revfb 127
+	300
+	rgate 0
+
+evt 10
+	revfb 70
+	100
+	rgate 127
+	revfb 127
+	500
+	rgate 0
+
+evt 11
+	revfb 118
+
+evt 25
+	revfb 64
+	100
+	rgate 107
+	revfb 127
+	200
+	rgate 0
+
+evt 26
+	revfb 122
+
+SECTION 6
+
+
+evt 0
+	revfb 122
+
+evt 4
+	rgate 107
+	revfb 127
+	200
+	revfb 118
+
+evt 32
+	rout 127
+	rgate 127
+	revfb 127
+	500
+	rgate 0
+
+evt 33
+	200
+	revfb 110
+
+SECTION 7
+
+
+evt 0
+	revfb 112
+	rout 127
+
+evt 1
+	rgate 117
+	revfb 127
+	300
+	rgate 0
+
+evt 2
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 3
+	rgate 137
+	revfb 127
+	200
+	rgate 0
+
+evt 5
+	revfb 118
+
+evt 6
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 7
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 8
+	rgate 137
+	revfb 127
+	200
+	rgate 0
+
+evt 10
+	revfb 118
+
+evt 11
+	rgate 137
+	revfb 127
+	200
+	rgate 0
+
+evt 12
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 13
+	rgate 117
+	200
+	rgate 0
+
+evt 16
+	revfb 122
+
+SECTION 8
+
+
+evt 0
+	rout 127
+	revfb 122
+
+evt 7
+	rgate 107
+	revfb 122
+
+evt 8
+	revfb 0
+	rgate 126
+	revfb 127
+	300
+	rgate 0
+
+evt 9
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 10
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 11
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 12
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 15
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 16
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 17
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 18
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 19
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 20
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 21
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 22
+	revfb 0
+	rgate 126
+	200
+	revfb 127
+	300
+	rgate 0
+
+evt 23
+	revfb 122
+
+evt 25
+	rgate 97
+	revfb 118
+
+SECTION 9
+
+
+evt 0
+	600
+	100
+	rout 127
+
+evt 1
+	rgate 127
+	revfb 115
+
+evt 12
+	rgate 117
+	revfb 122
+
+SECTION 10
+
+
+evt 0
+	rout 127
+
+evt 10
+	rgate 117
+	revfb 127
+
+evt 11
+	revfb 122
+
+evt 12
+	rgate 117
+	revfb 122
+
+evt 13
+	rgate 117
+	revfb 112
+
+evt 14
+	rgate 127
+
+SECTION 11
+
+
+evt 0
+	rout 127
+
+evt 1
+	rgate 123
+	revfb 127
+
+evt 2
+	100
+	rgate 0
+
+evt 3
+	rgate 117
+	revfb 127
+
+evt 4
+	100
+	rgate 0
+
+evt 5
+	rgate 117
+	revfb 127
+	300
+	rgate 0
+
+evt 6
+	revfb 112
+
+evt 7
+	rgate 117
+	revfb 127
+	500
+	rgate 0
+
+evt 8
+	rgate 117
+	revfb 127
+
+evt 9
+	300
+	rgate 0
+
+evt 10
+	rgate 117
+	revfb 127
+	400
+	rgate 0
+
+evt 11
+	revfb 112
+
+evt 12
+	rgate 117
+	revfb 127
+	500
+	rgate 0
+
+evt 13
+	rgate 117
+	revfb 127
+
+evt 14
+	400
+	rgate 0
+
+evt 15
+	rgate 117
+	revfb 127
+
+evt 16
+	400
+	rgate 0
+
+evt 17
+	rgate 117
+	revfb 127
+	300
+	rgate 0
+
+evt 18
+	revfb 118
+
+SECTION 12
+
+
+evt 0
+	revfb 122
+
+evt 1
+	revfb 0
+	rgate 127
+
+evt 3
+	rgate 127
+
+evt 6
+	rout 127
+	125
+	125
+	rgate 127
+	revfb 127
+	125
+	rgate 0
+
+evt 7
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+
+evt 10
+	revfb 112
+	1000
+	revfb 0
+	rgate 127
+
+evt 22
+	500
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+
+evt 23
+	revfb 118
+
+evt 24
+	125
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+	125
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+
+evt 25
+	revfb 118
+
+evt 26
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+
+evt 27
+	revfb 118
+
+evt 28
+	125
+	125
+	125
+	rgate 117
+	revfb 127
+	125
+	rgate 0
+
+evt 29
+	revfb 118
+
+evt 30
+	100
+	rgate 117
+	revfb 127
+	200
+	rgate 0
+
+evt 31
+	revfb 122
+
+SECTION 13
+
+
+evt 0
+	rout 127
+	revfb 118
+
+evt 1
+	rgate 117
+	revfb 127
+	300
+	rgate 0
+
+evt 3
+	rgate 117
+	revfb 127
+	300
+	rgate 0
+
+evt 12
+	revfb 118
+
+evt 13
+	rout 110
+	rgate 126
+	revfb 127
+	200
+	rgate 0
+
+evt 15
+	rgate 126
+	revfb 127
+	400
+	rgate 0
+
+evt 18
+	rgate 117
+	revfb 127
+	300
+	rgate 0
+
+evt 22
+	rgate 117
+	revfb 127
+	300
+	rgate 0
+
+evt 23
+	revfb 118
+
+evt 24
+	rgate 126
+	rout 127
+	50
+	revfb 127
+	400
+	rgate 0
+
+evt 25
+	revfb 127
+	50
+	rgate 126
+	400
+	rgate 0
+
+evt 26
+	100
+	100
+	100
+	rgate 126
+	revfb 127
+	100
+	100
+	100
+	rgate 0

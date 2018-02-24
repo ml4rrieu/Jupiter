@@ -1,0 +1,947 @@
+
+SECTION 1
+
+
+evt 0
+	fto2 127
+
+evt 10
+	150
+	125
+	125
+	125
+	125
+	1000
+	fneg 127
+	fsfre 10
+
+evt 11
+	fneg 127
+	fsfre 7
+	500
+	fneg 127
+	fsfre 6
+	200
+	fneg 127
+	fsfre 4
+
+evt 12
+	50
+	fneg 127
+	fsfre 0
+
+evt 13
+	fto2 113
+	500
+	fpos 127
+	fsfre 784
+	375
+	fneg 127
+	fsfre 784
+	fpos 0
+	125
+	fpos 127
+	fsfre 784
+	fneg 0
+	500
+	fneg 127
+	fsfre 784
+	fpos 0
+
+evt 14
+	291
+	fneg 127
+	fsfre 784
+
+evt 15
+	250
+	fpos 127
+	fsfre 784
+	fneg 0
+	125
+	fneg 127
+	fsfre 784
+	fpos 0
+	125
+	fpos 127
+	fsfre 784
+	fneg 0
+	250
+	fpos 127
+	fsfre 784
+	375
+	fneg 127
+	fsfre 784
+	fpos 0
+
+evt 16
+	125
+	fneg 127
+	fsfre 523
+	125
+	fneg 127
+	fsfre 784
+	125
+	fneg 127
+	fsfre 622
+	291
+	fneg 127
+	fsfre 587
+	334
+	fneg 127
+	fsfre 523
+	333
+	fpos 127
+	fsfre 784
+	fneg 0
+	333
+	fneg 127
+	fsfre 784
+	fpos 0
+
+evt 17
+	416
+	fneg 127
+	fsfre 277
+
+evt 18
+	666
+	fpos 127
+	fsfre 784
+	fneg 0
+
+evt 19
+	333
+	67
+	fneg 127
+	fsfre 784
+	fpos 0
+	400
+	400
+	fneg 127
+	fsfre 622
+	400
+	fneg 127
+	fsfre 587
+
+evt 20
+	500
+	fpos 127
+	fsfre 784
+	fneg 0
+	1250
+	fneg 127
+	fsfre 784
+	fpos 0
+
+evt 49
+	100
+	fto2 113
+
+evt 50
+	fneg 127
+	fsfre 784
+	fto2 98
+
+evt 51
+	fneg 127
+	fsfre 622
+
+evt 52
+	fneg 127
+	fsfre 659
+
+evt 53
+	fneg 127
+	fsfre 196
+
+evt 54
+	fneg 127
+	fsfre 8
+	fpos 127
+	fsfre 8
+
+evt 55
+	fneg 127
+	fsfre 147
+	fpos 0
+
+evt 56
+	fneg 0
+
+evt 57
+	fneg 127
+	fsfre 1245
+
+evt 58
+	fneg 127
+	fsfre 392
+
+evt 59
+	fneg 127
+	fsfre 165
+
+evt 60
+	fneg 127
+	fsfre 880
+
+evt 61
+	fneg 127
+	fsfre 622
+
+evt 62
+	fneg 127
+	fsfre 12
+	fpos 127
+	fsfre 12
+
+evt 63
+	fneg 127
+	fsfre 587
+	fpos 0
+
+evt 64
+	fneg 127
+	fsfre 784
+
+evt 65
+	fneg 127
+	fsfre 1319
+
+evt 66
+	fneg 127
+	fsfre 440
+
+evt 67
+	fneg 127
+	fsfre 6
+	fpos 127
+	fsfre 6
+
+evt 68
+	fneg 127
+	fsfre 10
+	fpos 127
+	fsfre 10
+
+evt 69
+	fneg 127
+	fsfre 156
+	fpos 0
+
+evt 70
+	fneg 127
+	fsfre 440
+
+evt 71
+	fneg 127
+	fsfre 1319
+
+evt 72
+	fneg 127
+	fsfre 784
+
+evt 73
+	fneg 127
+	fsfre 622
+
+evt 74
+	fneg 127
+	fsfre 330
+
+evt 75
+	fneg 127
+	fsfre 330
+
+evt 76
+	fneg 127
+	fsfre 440
+
+evt 77
+	fneg 127
+	fsfre 311
+
+evt 78
+	fneg 127
+	fsfre 392
+
+evt 79
+	fneg 127
+	fsfre 9
+	fpos 127
+	fsfre 9
+
+evt 80
+	fneg 127
+	fsfre 587
+	fpos 0
+
+evt 81
+	fneg 127
+	fsfre 156
+
+evt 82
+	fneg 127
+	fsfre 784
+
+evt 83
+	fneg 127
+	fsfre 15
+	fpos 127
+	fsfre 15
+
+evt 84
+	fneg 127
+	fsfre 330
+	fpos 0
+
+evt 85
+	fneg 127
+	fsfre 392
+
+evt 86
+	fneg 0
+
+evt 88
+	fto2 92
+
+evt 90
+	30
+	fpos 127
+	fsfre 440
+
+evt 94
+	200
+	30
+	fpos 127
+	fsfre 622
+
+evt 101
+	30
+	30
+	fpos 127
+	fsfre 831
+
+evt 102
+	fpos 0
+	fneg 127
+	fsfre 3322
+
+evt 103
+	fpos 127
+	fsfre 831
+	fneg 0
+
+evt 104
+	fpos 127
+	fsfre 587
+
+evt 105
+	fsfre 494
+
+evt 106
+	fpos 127
+	fneg 0
+	fsfre 587
+
+SECTION 2
+
+
+evt 0
+	fto2 127
+
+evt 14
+	fto2 111
+	fneg 127
+	fsfre 220
+
+evt 15
+	fneg 127
+	fsfre 175
+
+evt 16
+	fneg 127
+	fsfre 185
+
+evt 17
+	fneg 0
+
+evt 21
+	fpos 127
+	fneg 0
+	fsfre 311
+
+evt 22
+	fneg 127
+	fpos 0
+	fsfre 330
+
+evt 23
+	fpos 0
+	fneg 0
+
+evt 27
+	fto2 117
+	fneg 127
+	fsfre 294
+
+evt 28
+	fneg 127
+	fsfre 466
+
+evt 29
+	fneg 127
+	fsfre 831
+
+evt 30
+	fneg 127
+	fsfre 8
+	fpos 127
+	fsfre 8
+	666
+	fpos 0
+	fneg 0
+
+evt 32
+	fto2 108
+	fneg 127
+	fsfre 8
+	fpos 127
+	fsfre 8
+
+evt 33
+	fneg 0
+	fpos 0
+
+evt 46
+	fneg 127
+	fsfre 9
+	fpos 127
+	fsfre 9
+
+evt 47
+	fneg 127
+	fsfre 3
+	fpos 127
+	fsfre 3
+
+evt 48
+	fneg 127
+	fsfre 11
+	fpos 127
+	fsfre 11
+
+evt 49
+	fneg 0
+	fpos 0
+
+evt 62
+	fpos 127
+	fsfre 9
+	fneg 127
+	fsfre 9
+
+evt 63
+	fneg 0
+	fpos 0
+
+evt 65
+	fneg 127
+	fsfre 12
+	fpos 127
+	fsfre 12
+
+SECTION 3
+
+
+evt 0
+	fto2 127
+
+evt 10
+	fsfre 784
+	fpos 0
+	fneg 127
+	fto2 0
+
+evt 13
+	fto2 105
+	fsfre 69
+	fpos 127
+
+evt 14
+	100
+	fsfre 784
+	fpos 0
+
+evt 17
+	60
+	fto2 99
+
+evt 21
+	1300
+	10
+	fsfre 4435
+	fto2 0
+
+evt 33
+	100
+	fto2 0
+
+evt 65
+	fto2 0
+
+evt 72
+	100
+	100
+	100
+	100
+	100
+	fsfre 5
+	fpos 127
+	fneg 127
+	fto2 110
+	100
+	100
+	100
+	100
+	100
+	100
+	200
+	120
+	120
+	120
+	120
+	120
+	300
+	fsfre 3
+	140
+	140
+	140
+	140
+	140
+	140
+	260
+	200
+	200
+	200
+	200
+	200
+	fto2 60
+	fsfre 5
+
+evt 73
+	fto2 60
+	fsfre 5
+
+evt 77
+	100
+	130
+	130
+	fto2 0
+
+evt 82
+	2200
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	100
+	fpos 118
+	fneg 118
+	fto2 0
+
+evt 83
+	fto2 0
+
+evt 87
+	100
+	100
+	100
+	100
+	fto2 98
+	fpos 127
+	fneg 127
+	fsfre 8
+
+evt 88
+	130
+	130
+	130
+	130
+	100
+	fto2 85
+
+evt 89
+	fneg 127
+	fsfre 10
+	fpos 127
+	fsfre 10
+
+evt 90
+	fneg 0
+	fpos 0
+
+evt 92
+	100
+	fto2 100
+	100
+	fneg 127
+	fsfre 10
+	fpos 127
+	fsfre 10
+	500
+	fneg 127
+	fsfre 6
+	fpos 127
+	fsfre 6
+	500
+	fneg 127
+	fsfre 3
+	fpos 127
+	fsfre 3
+	800
+	fneg 0
+	fpos 0
+
+SECTION 4
+
+
+evt 0
+	fto2 113
+
+evt 1
+	fpos 127
+	fsfre 494
+
+evt 5
+	fto2 102
+	fneg 127
+	fsfre 1109
+
+evt 8
+	fpos 127
+	fsfre 277
+
+evt 17
+	fneg 127
+	fsfre 8
+	fpos 127
+	fsfre 8
+	fto2 111
+
+evt 18
+	fsfre 10
+	fto2 0
+
+evt 20
+	1000
+	fneg 127
+	fpos 127
+	fsfre 5
+	fto2 98
+
+evt 22
+	fpos 127
+	fsfre 12
+	fneg 127
+	fsfre 12
+
+SECTION 5
+
+
+evt 0
+	fto2 107
+
+evt 1
+	fto2 104
+	fneg 127
+	fsfre 9
+	fpos 0
+
+evt 2
+	fneg 127
+	fsfre 52
+	fpos 0
+
+evt 3
+	fneg 127
+	fsfre 117
+	fpos 0
+
+evt 4
+	fneg 127
+	fsfre 39
+	fpos 0
+
+evt 5
+	fneg 127
+	fsfre 28
+	fpos 0
+
+evt 6
+	fneg 127
+	fsfre 9
+	fpos 0
+
+evt 7
+	fto2 98
+	fneg 0
+	fpos 0
+
+evt 13
+	fto2 110
+	fneg 127
+	fsfre 9
+	fpos 127
+	fsfre 9
+
+SECTION 6
+
+
+evt 0
+	100
+	fto2 127
+
+evt 1
+	fpos 127
+	fsfre 12
+	fneg 127
+	fsfre 12
+
+evt 6
+	fto2 127
+
+evt 12
+	fto2 127
+
+SECTION 7
+
+
+evt 0
+	100
+	fto2 127
+
+SECTION 8
+
+
+evt 0
+	fto2 127
+
+SECTION 9
+
+
+evt 0
+	1175
+	1300
+	fto2 0
+
+evt 4
+	fto2 112
+	fneg 127
+	fsfre 1047
+	fpos 127
+	fsfre 1047
+
+evt 5
+	fneg 0
+	fpos 0
+
+evt 6
+	fneg 127
+	fsfre 698
+	fpos 127
+	fsfre 698
+
+evt 7
+	fneg 0
+	fpos 0
+
+evt 8
+	fneg 127
+	fsfre 415
+	fpos 127
+	fsfre 415
+
+evt 9
+	fneg 0
+	fpos 0
+
+evt 10
+	fneg 127
+	fsfre 2093
+	fpos 127
+	fsfre 2093
+
+evt 11
+	fneg 0
+	fpos 0
+
+evt 13
+	fsfre 21
+	fpos 127
+	fneg 127
+	fto2 110
+
+SECTION 10
+
+
+evt 0
+	fto2 112
+
+SECTION 11
+
+
+evt 0
+	100
+	fto2 127
+
+evt 11
+	fneg 109
+	fsfre 8
+	fpos 109
+
+evt 12
+	fneg 127
+	fsfre 12
+	fpos 127
+	fsfre 12
+
+evt 14
+	fto2 110
+	400
+	fneg 0
+	fpos 0
+
+evt 15
+	fneg 0
+	fpos 0
+
+SECTION 12
+
+
+evt 0
+	fto2 127
+
+evt 1
+	fpos 127
+	fsfre 12
+	fneg 127
+	fsfre 12
+
+evt 11
+	fneg 127
+	fsfre 12
+	fpos 127
+	fsfre 12
+
+evt 14
+	fneg 127
+	fsfre 7
+	fpos 127
+
+evt 18
+	fto2 110
+	fneg 127
+	fsfre 12
+	fpos 127
+	fsfre 12
+
+evt 20
+	fpos 127
+	fsfre 8
+	fneg 127
+	fsfre 8
+
+evt 21
+	30
+	500
+	fneg 0
+	fpos 0
+
+evt 22
+	fpos 127
+	fsfre 12
+	fneg 127
+	fsfre 12
+
+evt 30
+	125
+	fneg 0
+	fpos 0
+
+SECTION 13
+
+
+evt 0
+	fto2 127
+
+evt 2
+	fpos 127
+	fsfre 880
+
+evt 4
+	fpos 127
+	fsfre 208
+
+evt 5
+	fpos 0
+
+evt 7
+	fto2 107
+	fpos 127
+	fsfre 8
+	fneg 127
+	fsfre 8
+
+evt 8
+	fpos 127
+	fsfre 5
+	fneg 127
+	fsfre 5
+
+evt 9
+	fpos 127
+	fsfre 12
+	fneg 127
+	fsfre 12
+
+evt 10
+	fpos 127
+	fsfre 3
+	fneg 127
+	fsfre 3
+
+evt 11
+	fneg 0
+	fpos 0
+
+evt 14
+	fneg 127
+	fsfre 330
+
+evt 16
+	fto2 127
+	fneg 127
+	fsfre 12
+	fpos 127
+	fsfre 12
+
+evt 17
+	fneg 0
+	fpos 0
+
+evt 26
+	50
+	fto2 109
+	fneg 127
+	fsfre 12
+	fpos 127
+	fsfre 12

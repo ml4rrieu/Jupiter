@@ -1,0 +1,188 @@
+
+SECTION 1
+
+
+evt 12
+	125
+	500
+	300
+	50
+	fnois 4
+
+evt 48
+	125
+	nto2 97
+	fnois 16
+
+evt 88
+	nto2 103
+	30
+	30
+	30
+	nto2 127
+	fnois 16
+
+SECTION 2
+
+
+evt 4
+	nto2 123
+	fnois 9
+
+SECTION 3
+
+
+evt 0
+	nto2 0
+	fnois 19
+
+evt 1
+	nto2 112
+
+evt 13
+	nto2 111
+	200
+	fnois 25
+
+evt 17
+	50
+	nto2 99
+
+evt 18
+	fnois 37
+
+evt 19
+	fnois 3
+
+evt 20
+	fnois 45
+
+evt 33
+	100
+	nto2 105
+
+evt 84
+	100
+	100
+	100
+	1600
+	100
+	130
+	100
+	100
+	100
+	fnois 23
+
+evt 101
+	fnois 11
+
+SECTION 4
+
+
+evt 14
+	150
+	500
+	fnois 33
+	nto2 120
+
+evt 17
+	nto2 0
+
+evt 18
+	fnois 14
+
+evt 19
+	400
+	1000
+	nto2 111
+
+evt 20
+	nto2 104
+
+evt 21
+	nto2 0
+
+SECTION 5
+
+
+evt 0
+	nto2 0
+
+evt 1
+	nto2 100
+	fnois 3
+
+evt 7
+	nto2 0
+
+evt 12
+	nto2 0
+
+SECTION 6
+
+
+SECTION 7
+
+
+evt 0
+	100
+	fnois 2
+	nto2 0
+
+evt 8
+	200
+	300
+	fnois 22
+
+SECTION 8
+
+
+SECTION 9
+
+
+evt 13
+	fnois 8
+	nto2 0
+	6200
+	3100
+	8200
+	fnois 108
+	nto2 0
+
+SECTION 10
+
+
+SECTION 11
+
+
+evt 0
+	100
+	fnois 19
+	nto2 0
+
+SECTION 12
+
+
+evt 14
+	fnois 34
+	nto2 127
+
+evt 15
+	nto2 0
+
+SECTION 13
+
+
+evt 0
+	100
+	nto2 85
+
+evt 1
+	fnois 43
+
+evt 13
+	nto2 0
+	fnois 19
+
+evt 23
+	fnois 11
