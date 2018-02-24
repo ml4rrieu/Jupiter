@@ -1,0 +1,889 @@
+1.1
+	1 Do#3 cf +8
+	2 Do#3 cf +6
+	3 Sol2 cf +10
+	4 Sol2 cf +12
+	
+1.3
+	5 Sol#1 cf +9 bw 45
+	6 Sol#1 cf +10 bw 50
+	
+1.4
+	7 Si2 cf +5 bw 48
+	
+1.5
+	8 Fa2 cf +9 bw 40
+	
+1.6
+	3 Re2 cf +15
+	4 Re2 cf +17
+	5 Fa#1 cf +11 bw 45
+	6 Fa#1 cf +12 bw 50
+	4000
+	mute 1 2 3 4 5 6 7 8
+	
+1.12
+	375
+	1 Do#3 cf +4 bw 58
+	2 Re#3 cf +5 bw 61
+	3 Mi3 cf +6 bw 65
+	4 Fa#3 cf +5 bw 59
+	5 Sol3 cf +4 bw 59
+	
+1.24
+	125
+	mute 1 2 3 4 5
+	
+1.27
+	1 Mi1 cf +55
+	2 Mi1 cf +56
+	30
+	mute 1 2
+	60
+	1 Mi1 cf +12 bw 62
+	2 Mi1 cf +12 bw 54
+	
+1.29
+	575
+	mute 2
+	
+1.30
+	1 Mi1 cf +8 bw 57 vfreq 13
+	
+1.31
+	250
+	2 Re#6 cf +8 bw 62 vfreq 84
+	
+1.32
+	375
+	3 Fa#6 cf +11 bw 80 vfreq 88
+	125
+	4 Mi6 cf +11 bw 87 vfreq 99
+	
+1.33
+	250
+	5 La5 cf +3 bw 75 vfreq 40
+	125
+	6 Sol#5 cf +4 bw 75 vfreq 112
+	
+1.36
+	1000
+	7 Do#6 cf +15 bw 84 vfreq 101
+	250
+	8 Re5 cf +9 bw 64 vfreq 51
+	
+1.46
+	500
+	mute 1 2 3 4 5 6 7 8
+	
+1.48
+	1 Do#3 cf +13 bw 54
+	2 Do#3 cf +13 bw 54
+	
+1.49
+	3 Sol3 cf +12 bw 41
+	4 Sol3 cf +12 bw 41
+	
+1.87
+	mute 3 4
+	
+1.88
+	mute 1 2
+	3 La3 cf +35 bw 43
+	4 Sol#3 cf +31 bw 40
+	30
+	mute 3 4
+	60
+	3 La3 cf +4 bw 43
+	4 Sol#3 cf +7 bw 40
+	
+1.89
+	1 La#3 cf +34 bw 43
+	30
+	mute 1
+	60
+	1 La#3 cf +4 bw 43
+	
+1.91
+	mute 1 3 4
+	
+1.92
+	1 La#3 cf +34 bw 43
+	50
+	mute 1
+	60
+	1 La#3 cf +4 bw 43
+	
+1.93
+	2 Re#4 cf +29 bw 43
+	50
+	mute 2
+	60
+	2 Re#4 cf +6 bw 43
+	
+1.95
+	mute 1 2
+	
+1.96
+	4 Mi3 cf +40 bw 43
+	50
+	mute 4
+	60
+	4 Mi3 cf +8 bw 43
+	
+1.97
+	1 Sol3 cf +37 bw 43
+	50
+	mute 1
+	60
+	1 Sol3 cf +7 bw 43
+	
+1.98
+	mute 1 4
+	
+1.99
+	3 Sol#4 cf +24 bw 52
+	50
+	mute 3
+	60
+	3 Sol#4 cf +7 bw 52
+	
+1.100
+	2 Re4 cf +40 bw 43
+	50
+	mute 2
+	60
+	2 Re4 cf +7 bw 43
+	
+1.107
+	mute 2 3
+	
+2.4
+	1 Sol#2 cf +5 bw 40
+	2 Si2 cf +6 bw 48
+	3 Do#3 cf +8 bw 50
+	4 La3 cf +10 bw 57
+	
+2.7
+	mute 1 2 3 4
+	
+2.25
+	1 La3 cf +4 bw 30
+	2 Re4 cf +1 bw 47 shift 74
+	3 Re#4 cf +5 bw 49
+	4 La#3 cf +6 bw 55 vfreq 83 vamp 4
+	
+2.26
+	mute 1 2 3
+	5 Mi4 cf +4 bw 65 vfreq 102 vamp 3
+	
+2.33
+	mute 4 5
+	
+2.34
+	1 Mi2 cf +4 bw 42
+	2 Fa#2 cf +8 bw 39
+	3 Do#3 cf +11 bw 49
+	4 Re#3 cf +11 bw 54 vfreq 83 vamp 4
+	
+2.35
+	1 Mi2 cf +4 bw 42 vfreq 2 vamp 1
+	2 Fa#2 cf +8 bw 39 vfreq 2 vamp 1
+	3 Do#3 cf +11 bw 49 vfreq 2 vamp 1
+	4 Re#3 cf +11 bw 54 vfreq 2 vamp 1
+	5 La3 cf +10 bw 59 vfreq 2 vamp 1
+	6 Do4 cf +11 bw 58 vfreq 2 vamp 1
+	7 Re4 cf +8 bw 69 vfreq 2 vamp 1
+	
+2.36
+	mute 1 2 3 4 5 6 7
+	
+2.52
+	700
+	1 Re#6 cf +1 bw 82 vfreq 114 vamp 1
+	
+2.53
+	2 Re6 cf +2 bw 72 vfreq 114 vamp 1
+	300
+	3 Do#4 cf +10 bw 51 vfreq 103 vamp 1
+	900
+	4 Sol#5 cf +7 bw 68 vfreq 103 vamp 1
+	
+2.54
+	1700
+	5 Fa#2 cf +5 bw 69 shift 43 vfreq 2 vamp 1
+	100
+	6 La2 cf +4 bw 70 shift 44 vfreq 2 vamp 1
+	
+2.55
+	mute 1 2 3 4 5 6
+	
+2.57
+	1 Fa5 cf +11 bw 9 vfreq 114 vamp 1
+	2 Fa5 cf +14 bw 17 vfreq 114 vamp 1
+	3 pitch 8 cf +93 bw 17 vfreq 103 vamp 1
+	4 pitch 9 cf +92 bw 24 vfreq 103 vamp 1
+	
+2.58
+	mute 1 2 3 4
+	
+2.60
+	1 Si2 cf +6 bw 54 vamp 1
+	
+2.61
+	2 Sol2 cf +8 bw 54 vamp 1
+	
+2.62
+	3 Sol#2 cf +8 bw 41 shift 97 vamp 1
+	4 La#1 cf +11 bw 40 shift 80 vamp 1
+	
+2.64
+	mute 1 2 3 4
+	
+2.65
+	1 La4 cf +12 bw 64 vfreq 118 vamp 7
+	
+2.66
+	2 Re5 cf +14 bw 62 vfreq 118 vamp 7
+	
+2.68
+	3 La#5 cf +12 bw 70 shift 97 vfreq 118 vamp 7
+	
+2.69
+	4 Re#6 cf +10 bw 80 shift 80 vfreq 118 vamp 7
+	
+2.70
+	mute 1 2 3 4
+	
+2.73
+	5 La5 cf +14 bw 98 vfreq 118 vamp 7
+	
+2.74
+	6 Sol#5 cf +21 bw 97 vfreq 118 vamp 7
+	
+2.76
+	mute 5 6
+	
+3.1
+	1 Sol2 cf +4 bw 40 vfreq 118 vamp 7
+	2 Re#3 cf +3 bw 51 vfreq 118 vamp 7
+	3 La3 cf +4 bw 52 shift 97 vfreq 118 vamp 7
+	4 Re4 cf +5 bw 57 shift 80 vfreq 118 vamp 7
+	5 Sol#4 cf +2 bw 51 shift 43 vfreq 118 vamp 7
+	6 La#5 cf - -1 bw 71 shift 44 vfreq 118 vamp 7
+	
+3.2
+	mute 1 2 3 4 5 6
+	50
+	1 Mi2 cf +3 bw 40 vfreq 118 vamp 7
+	2 Re#3 cf +6 bw 51 vfreq 118 vamp 7
+	3 Mi2 cf +9 bw 49 shift 97 vfreq 118 vamp 7
+	4 Re#3 cf +8 bw 50 shift 80 vfreq 118 vamp 7
+	5 Sol#3 cf +5 bw 54 shift 43 vfreq 118 vamp 7
+	6 Re4 cf +3 bw 51 shift 44 vfreq 118 vamp 7
+	
+3.3
+	mute 1 2 3 4 5 6
+	60
+	1 Sol#2 cf +8 bw 40 vfreq 118 vamp 7
+	2 Do#3 cf +13 bw 51 vfreq 118 vamp 7
+	3 La3 cf +9 bw 54 shift 97 vfreq 118 vamp 7
+	4 Re4 cf +9 bw 42 shift 80 vfreq 118 vamp 7
+	5 Do5 cf +8 bw 40 shift 43 vfreq 118 vamp 7
+	6 Re#5 cf +3 bw 34 shift 44 vfreq 118 vamp 7
+	
+3.4
+	mute 1 2 3 4 5 6
+	50
+	1 Sol#2 cf +9 bw 53 vfreq 118 vamp 7
+	2 Do#3 cf +9 bw 55 vfreq 118 vamp 7
+	3 Sol#2 cf +8 bw 42 shift 97 vfreq 118 vamp 7
+	4 Do#3 cf +8 bw 34 shift 80 vfreq 118 vamp 7
+	5 La3 cf - 0 bw 33 shift 43 vfreq 118 vamp 7
+	6 La3 cf +7 bw 47 shift 44 vfreq 118 vamp 7
+	
+3.5
+	mute 1 2 3 4 5 6
+	50
+	1 Re#2 cf +14 bw 53 vfreq 118 vamp 7
+	2 Sol#2 cf +14 bw 55 vfreq 118 vamp 7
+	3 Re#2 cf +13 bw 42 shift 97 vfreq 118 vamp 7
+	4 Sol#2 cf +13 bw 34 shift 80 vfreq 118 vamp 7
+	5 Fa#3 cf +3 bw 33 shift 43 vfreq 118 vamp 7
+	6 La3 cf +7 bw 47 shift 44 vfreq 118 vamp 7
+	
+3.6
+	mute 1 2 3 4 5 6
+	50
+	1 Re#3 cf +3 bw 47 vfreq 118 vamp 7
+	2 Re#3 cf +8 bw 31 vfreq 118 vamp 7
+	3 La3 cf +7 bw 34 shift 97 vfreq 118 vamp 7
+	4 La3 cf +17 bw 17 shift 80 vfreq 118 vamp 7
+	5 Si3 cf +4 bw 49 shift 43 vfreq 118 vamp 7
+	6 Sol#4 cf +4 bw 78 shift 44 vfreq 118 vamp 7
+	
+3.7
+	mute 1 2 3 4 5 6
+	50
+	1 Re2 cf - 0 bw 37 vfreq 118 vamp 7
+	2 Re2 cf +2 bw 28 vfreq 118 vamp 7
+	3 Sol#2 cf +7 bw 28 shift 97 vfreq 118 vamp 7
+	4 Do#3 cf +7 bw 17 shift 80 vfreq 118 vamp 7
+	5 Mi3 cf +3 bw 40 shift 43 vfreq 118 vamp 7
+	6 La3 cf +3 bw 43 shift 44 vfreq 118 vamp 7
+	
+3.8
+	mute 1 2 3 4 5 6
+	50
+	1 Sol#1 cf +3 bw 42 vfreq 118 vamp 7
+	2 Do#2 cf +3 bw 45 vfreq 118 vamp 7
+	3 Sol2 cf +9 bw 44 shift 97 vfreq 118 vamp 7
+	4 La#2 cf +11 bw 53 shift 80 vfreq 118 vamp 7
+	5 Re#3 cf +8 bw 46 shift 43 vfreq 118 vamp 7
+	6 La3 cf +7 bw 43 shift 44 vfreq 118 vamp 7
+	
+3.9
+	mute 1 2 3 4 5 6
+	
+3.10
+	1 Sol#1 cf +6 bw 38
+	2 Sol2 cf +15 bw 47
+	3 Mi3 cf +12 bw 52
+	4 La3 cf +11 bw 63
+	5 Re4 cf +13 bw 57
+	6 La#4 cf +5 bw 59
+	7 Re#5 cf +10 bw 69
+	1000
+	mute 1 2 3 4 5 6 7
+	
+3.11
+	1 La#2 cf +12 bw 38
+	2 Mi3 cf +12 bw 43
+	3 La3 cf +7 bw 52
+	4 Si3 cf +10 bw 66
+	5 Re#4 cf +15 bw 46
+	6 Fa4 cf +10 bw 59
+	7 Sol#4 cf +13 bw 66
+	100
+	mute 1 2 3 4 5 6 7
+	
+3.12
+	1 Re3 cf +2 bw 59
+	2 La#3 cf +3 bw 55
+	3 Mi4 cf +9 bw 66
+	4 La4 cf +9 bw 66
+	5 Si4 cf +11 bw 70
+	6 Re#5 cf +11 bw 77
+	7 Sol#5 cf +13 bw 79
+	300
+	mute 1 2 3 4 5 6 7
+	
+3.13
+	1 Do#2 cf +9 bw 39
+	2 La#2 cf +9 bw 40
+	3 Re#3 cf +10 bw 53
+	4 Sol#3 cf +10 bw 58
+	5 Re4 cf +8 bw 71
+	6 Sol4 cf +8 bw 68
+	7 La5 cf +13 bw 84
+	
+3.14
+	mute 1 2 3 4 5 6 7
+	250
+	1 Sol1 cf +25 bw 44
+	2 Re#2 cf +13 bw 47
+	3 Si2 cf +14 bw 64
+	4 Sol#3 cf +22 bw 68
+	5 Re4 cf +14 bw 82
+	6 La#4 cf +8 bw 66
+	7 Mi5 cf +15 bw 72
+	300
+	mute 1 2 3 4 5 6 7
+	
+3.15
+	100
+	1 La2 cf +11 bw 48
+	2 Fa3 cf +9 bw 54
+	3 Do4 cf +10 bw 68
+	4 Mi4 cf +11 bw 77
+	5 Si4 cf +9 bw 81
+	6 Sol#5 cf +7 bw 66
+	7 Sol#5 cf +10 bw 65
+	50
+	mute 1 2 3 4 5 6 7
+	50
+	1 Sol#2 cf +2 bw 41
+	2 Re3 cf +1 bw 45
+	3 Si3 cf +9 bw 68
+	4 Mi4 cf +10 bw 60
+	5 La#4 cf +3 bw 52
+	6 Re#5 cf +2 bw 60
+	7 Re#5 cf +7 bw 57
+	60
+	mute 1 2 3 4 5 6 7
+	
+3.16
+	10
+	1 La#2 cf +4 bw 48
+	2 Do#3 cf +4 bw 56
+	3 Mi3 cf +10 bw 56
+	4 Sol3 cf +6 bw 49
+	5 La3 cf +3 bw 40
+	6 Re#4 cf +5 bw 45
+	7 Fa4 cf +10 bw 57
+	
+3.17
+	mute 7
+	1 Mi2 cf +9 bw 46
+	2 La#2 cf +5 bw 43
+	3 Re#3 cf +7 bw 49
+	4 Sol3 cf +7 bw 45
+	5 La3 cf +2 bw 34
+	6 Re4 cf +4 bw 35
+	
+3.18
+	1 La1 cf +9 bw 32
+	2 Do2 cf +8 bw 34
+	3 Re2 cf +18 bw 37
+	4 Sol#2 cf +15 bw 41
+	5 Do#3 cf +3 bw 41
+	6 Re#3 cf +6 bw 22
+	7 Sol3 cf +6 bw 54
+	
+3.19
+	1 Do4 cf - -18 bw 32
+	2 Fa#4 cf - -22 bw 34
+	100
+	1 Do4 cf +11 bw 22
+	2 Fa#4 cf +7 bw 54
+	
+3.20
+	mute 6 7
+	3 La#1 cf +15 bw 25
+	4 Do#2 cf +14 bw 13
+	5 La2 cf +14 bw 27
+	2900
+	mute 1 2 3 4 5
+	
+3.24
+	6 Mi4 cf +13 bw 73
+	
+3.26
+	mute 6
+	
+3.32
+	400
+	4 La#0 cf +27 bw 56
+	5 Fa#1 cf +17 bw 48
+	6 Mi2 cf +3 bw 34
+	7 La2 cf +11 bw 49
+	
+3.33
+	mute 4 5 6 7
+	
+3.34
+	1 Do#5 cf +11 bw 71 shift 60
+	2 Fa#5 cf +11 bw 79 shift 150
+	
+3.35
+	3 Sol5 cf +10 bw 80 shift 151
+	4 Do6 cf +16 bw 96 shift 144
+	
+3.36
+	5 Fa4 cf +9 bw 65 shift 121
+	6 Si4 cf +5 bw 65 shift 128
+	
+3.37
+	7 Re6 cf +13 bw 92 shift 148
+	
+3.38
+	5 Sol#4 cf +6 bw 65 shift 121
+	
+3.39
+	mute 1 2 3 4
+	
+3.40
+	mute 5 6 7
+	1 Mi3 cf +24 bw 54
+	2 La3 cf +18 bw 59
+	
+3.41
+	3 Sol#4 cf +21 bw 68
+	4 Si4 cf +15 bw 76
+	
+3.42
+	mute 1 2 3 4
+	5 Do#5 cf +15 bw 76
+	6 Do6 cf +11 bw 82
+	
+3.43
+	7 Fa#4 cf +17 bw 81
+	8 Fa5 cf +11 bw 86
+	
+3.44
+	1 Si3 cf +6 bw 49 shift 132
+	2 Re4 cf +15 bw 68 shift 134
+	
+3.45
+	3 Sol#5 cf +12 bw 75 vfreq 119 vamp 5
+	
+3.46
+	4 Fa3 cf +16 bw 60 shift 125
+	
+3.47
+	mute 5 6 7 8
+	
+3.48
+	mute 1 2 3 4
+	
+3.50
+	1 Sol4 cf +15 bw 75 shift 151
+	
+3.51
+	2 Do5 cf +14 bw 73 shift 144
+	
+3.52
+	3 Fa5 cf +21 bw 88 shift 137
+	
+3.53
+	4 Si5 cf +22 bw 108 shift 168
+	
+3.54
+	5 Re6 cf +15 bw 122
+	
+3.55
+	6 Do#6 cf +11 bw 116
+	
+3.56
+	7 Mi4 cf +19 bw 72 shift 148
+	
+3.57
+	8 La4 cf +8 bw 103 shift 160
+	
+3.58
+	mute 1 2 3 4 5 6 7 8
+	
+3.59
+	1 Si2 cf +9 bw 52
+	2 Sol3 cf +2 bw 47
+	3 La#3 cf +7 bw 49
+	4 Mi4 cf +9 bw 54
+	5 La4 cf +5 bw 59
+	6 Fa5 cf +2 bw 74
+	7 Do#6 cf +10 bw 95 shift 159
+	8 Re6 cf +12 bw 101 shift 165
+	
+3.60
+	mute 7 8
+	
+3.61
+	mute 5 6
+	
+3.62
+	mute 3 4
+	
+3.63
+	mute 1 2
+	
+3.101
+	1 La#4 cf +10 bw 70 vfreq 113
+	
+3.102
+	2 Re#5 cf +11 bw 69 vfreq 113
+	250
+	3 Do3 cf +16 bw 72 shift 111
+	4 Re3 cf +12 bw 70 shift 104
+	125
+	5 Do#2 cf +13 bw 51 shift 108
+	
+3.103
+	6 La4 cf +12 bw 67 vfreq 113
+	
+3.104
+	mute 6
+	
+3.105
+	mute 3 4 5
+	7 Fa4 cf +16 bw 63 vfreq 113
+	
+3.106
+	6 La#4 cf +11 bw 67 vfreq 113
+	7 Sol2 cf +13 bw 51 shift 81
+	250
+	3 Fa3 cf +11 bw 72 shift 111
+	4 Si3 cf +3 bw 70 shift 116
+	250
+	5 La2 cf +5 bw 51 shift 108
+	375
+	8 Sol#1 cf +13 bw 48 shift 84
+	
+3.107
+	mute 1
+	
+3.108
+	mute 2
+	
+3.110
+	mute 6
+	
+3.111
+	1 Do4 cf +8 bw 60 vfreq 113
+	
+3.112
+	2 Fa#3 cf +11 bw 55 vfreq 113
+	3 La#2 cf +18 bw 72 shift 111
+	4 Do#2 cf +19 bw 58 shift 104
+	5 Sol4 cf +14 bw 72 vfreq 113
+	7 Sol#5 cf +12 bw 91 vfreq 113
+	8 La#5 cf +12 bw 94 vfreq 113
+	
+3.113
+	6 Si5 cf +7 bw 84 vfreq 113
+	
+3.114
+	mute 5 6
+	
+3.115
+	5 La3 cf +9 bw 55 vfreq 113
+	
+3.116
+	mute 3 4 7 8
+	
+3.117
+	mute 5
+	250
+	3 Fa#3 cf +15 bw 66 shift 101
+	125
+	4 Re#2 cf +17 bw 58 shift 104
+	
+3.118
+	mute 1
+	
+3.119
+	mute 2 3 4
+	
+3.120
+	1 La4 cf +5 bw 61 vfreq 113
+	
+3.121
+	2 La#4 cf +6 bw 69 vfreq 113
+	125
+	3 Fa#3 cf +15 bw 66 shift 101
+	125
+	4 Re3 cf +6 bw 58 shift 104
+	
+3.122
+	5 Fa#5 cf +5 bw 75 vfreq 113
+	
+3.123
+	6 Do6 cf +2 bw 80 vfreq 113
+	7 Mi1 cf +22 bw 43
+	
+3.124
+	mute 6
+	
+3.125
+	mute 5 7
+	
+3.126
+	8 Do#5 cf +15 bw 80 vfreq 113
+	
+3.127
+	5 Si3 cf +12 bw 62 vfreq 113
+	6 Do4 cf +18 bw 67 vfreq 113
+	
+3.129
+	mute 2 8
+	
+3.130
+	mute 1 3 4 5 6
+	
+3.131
+	1 Mi5 cf +9 bw 69 vfreq 113
+	
+3.132
+	2 Si4 cf +12 bw 64 vfreq 113
+	250
+	3 Do5 cf +11 bw 79 shift 127
+	125
+	4 Fa#4 cf +10 bw 72 shift 129
+	125
+	5 Sol#2 cf +10 bw 58 shift 107
+	125
+	6 Sol3 cf +11 bw 63 shift 112
+	
+3.133
+	7 La#3 cf +9 bw 51 vfreq 113
+	
+3.134
+	mute 3 4 5 6
+	8 Re#4 cf +9 bw 50 vfreq 113
+	
+3.135
+	mute 1
+	2 Fa3 cf +30 bw 64 vfreq 113
+	
+3.136
+	mute 2
+	7 La#3 cf +20 bw 61 vfreq 113
+	8 Re#4 cf +17 bw 59 vfreq 113
+	250
+	1 Si2 cf +2 bw 49 shift 111
+	2 Fa3 cf +4 bw 59 shift 111
+	125
+	3 Do2 cf +9 bw 44 shift 90
+	4 Mi2 cf +5 bw 47 shift 102
+	125
+	5 Re#2 cf +9 bw 43 shift 107
+	6 Do#3 cf +3 bw 53 shift 112
+	
+3.137
+	mute 7 8
+	
+3.138
+	mute 1 2 3 4 5 6
+	
+3.139
+	1 Si4 cf +1 bw 60 vfreq 113
+	2 Fa5 cf +2 bw 75 vfreq 113
+	
+3.141
+	3 Do5 cf +12 bw 76 vfreq 113
+	4 Mi5 cf +9 bw 77 vfreq 113
+	5 Sol#2 cf +5 bw 50 shift 107
+	6 Mi3 cf +4 bw 51 shift 112
+	
+3.143
+	7 Do#5 cf +8 bw 68 vfreq 113
+	
+3.144
+	mute 1 2
+	8 Re#4 cf +7 bw 55 vfreq 113
+	
+3.145
+	50
+	1 Re4 cf +14 bw 63 vfreq 113
+	2 Do#3 cf +4 bw 47
+	
+3.147
+	mute 8
+	
+3.148
+	mute 7
+	200
+	mute 3 4
+	5 Sol#2 cf +22 bw 73 shift 107
+	6 Mi3 cf +17 bw 73 shift 112
+	
+3.149
+	7 Sol3 cf +26 bw 68 shift 117 vfreq 113
+	8 Si3 cf +11 bw 55 shift 127 vfreq 113
+	
+4.150
+	mute 1 2 5 6 7 8
+	
+4.14
+	650
+	1 Do5 cf +9 bw 79 vfreq 113
+	2 La#4 cf +5 bw 75
+	3 Fa3 cf +8 bw 61 vfreq 113
+	4 Fa#4 cf +14 bw 71 vfreq 113
+	5 La5 cf +5 bw 84 shift 107
+	6 Mi3 cf +17 bw 73 shift 112
+	
+4.15
+	mute 1 2 3 4 5 6
+	
+4.17
+	1 Mi2 cf +7 bw 48 vfreq 113
+	2 La#2 cf +6 bw 52
+	3 Do3 cf +7 bw 52 vfreq 113
+	4 Re#3 cf +5 bw 50 vfreq 113
+	
+4.18
+	1 La1 cf +11 bw 38 vfreq 113
+	2 Re2 cf +17 bw 44
+	3 Sol#2 cf +16 bw 57 vfreq 113
+	4 Do#3 cf +12 bw 56 vfreq 113
+	
+4.21
+	1500
+	1 Re6 cf +15 bw 97 vfreq 113
+	2 Do#6 cf +13 bw 97 vfreq 115
+	3 Re6 cf +17 bw 99 vfreq 111
+	4 Do#6 cf +17 bw 99 vfreq 118
+	
+4.23
+	5 Fa3 cf +6 bw 57 vfreq 107
+	6 Fa3 cf +6 bw 59 vfreq 110
+	7 Si3 cf +7 bw 53 vfreq 108
+	8 La#3 cf +8 bw 60 vfreq 106
+	
+7.6
+	mute 1 2 3 4 5 6 7 8
+	
+7.1
+	1 Re5 cf +9 bw 78 vfreq 3
+	
+7.2
+	2 Sol#3 cf +11 bw 54 vfreq 1
+	
+7.3
+	3 Sol5 cf +9 bw 90 vfreq 2
+	
+7.5
+	mute 1 2 3
+	
+7.6
+	1 La4 cf +10 bw 76 vfreq 3
+	
+7.7
+	2 Re#3 cf +9 bw 54 vfreq 1
+	
+7.8
+	3 La#5 cf +14 bw 102 vfreq 2
+	
+7.10
+	mute 1 2 3
+	
+7.11
+	1 Re#5 cf +4 bw 76 vfreq 3
+	
+7.12
+	2 La#4 cf +5 bw 72 vfreq 1
+	200
+	3 Mi3 cf +17 bw 70 vfreq 2
+	
+13.16
+	mute 1 2 3
+	
+13.1
+	1 La4 cf +17 bw 68 vfreq 3
+	
+13.12
+	mute 1
+	
+13.13
+	1 Mi3 cf +9 bw 49 vfreq 3
+	
+13.15
+	2 Sol3 cf +15 bw 55 vfreq 1
+	
+13.18
+	3 Sol#2 cf +14 bw 41 vfreq 2
+	300
+	3 Sol#2 cf +14 bw 41 vfreq 50 vamp 3
+	
+13.22
+	4 Re3 cf +9 bw 57 vfreq 118
+	
+13.23
+	mute 1 2 3 4
+	
+13.25
+	400
+	1 Do#3 cf +8 bw 49 vfreq 3
+	2 Re#3 cf +7 bw 53 vfreq 1
+	3 Mi3 cf +10 bw 47 vfreq 50 vamp 3
+	4 Fa#3 cf +8 bw 57 vfreq 118
+	5 Sol3 cf +11 bw 59 vfreq 107
