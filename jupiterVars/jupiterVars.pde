@@ -1,5 +1,5 @@
 /*
-this code  catch all the variables present in the qlist files and add desctiptions.
+goal : catch all the variables present in the qlist files and calculate descriptions.
 This code load all qlist files and output a table
 ML 2016
 */

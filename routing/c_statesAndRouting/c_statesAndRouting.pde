@@ -1,3 +1,11 @@
+/**
+goal : deduce the routing and the states of all modules 
+this code load the two precendent tables *preStatesOfMods.tsv* and *modsConnections.tsv*
+this code output one text file for the routing, and one table file for the modules states
+
+ML 2016
+*/
+
 HashMap<String, Module> hm;
 PrintWriter writer;
 Table loadVarsMod, preStatesMods, modsConnections, statesMods;
@@ -181,7 +189,7 @@ void init() {
   for (int i=0; i< column.length; i++)statesMods.addColumn(column[i]);
 
   preStatesMods = loadTable("../a_preStatesOfMods/preStatesOfMods.tsv", "header");
-  modsConnections = loadTable("../b_modsConnections/modsConnections.tsv", "header");
+  modsConnections = loadTable("../b_modsConnections/modsConnection.tsv", "header");
 
   loadVarsMod = loadTable("modVars.txt", "tsv");
 
@@ -263,14 +271,3 @@ class Module {
    for(String v : outputs) if( !hm.get(v).state) outputs.removeValue(v); 
   }
 }
-
-/*
-  void modWithoutOutputsNorDac() {
-    // for others mods than spat, if they have no outputs, nor dac, then remove inputs
-    if (!name.equals("spat") && outputs.size() == 0 && !dac) { 
-      for (String k : inputs.values()) hm.get(k).outputs.removeValue(name); 
-      inputs.clear();
-      toPrint.append(name+" has no outputs");
-    }
-  }
-  */

@@ -1,7 +1,7 @@
 /**
-goal : get the pre state of modules to know if Modules are able or not to make sound.
+goal : get the pre state of modules to know if Modules are able or not to produce sound.
 this code load all qlist files and output a table.
-last evt of section are not read, but its not imporant since (hopefully) they are empty.
+last events of sections are not read, but its not imporant since they are empty.
 ML 2016
 */
 
@@ -19,7 +19,7 @@ void setup() {
   init();
 
   //0.load section score
-  for (int section =1; section < 14; section ++) { // 13 section 
+  for (int section =1; section < 14; section ++) { // 13 sections
     if (section < 10 ) path = "score/section0"+section+"-qlist.txt" ; // qlist path
     if (section >=10) path =  "score/section"+section+"-qlist.txt" ;
     String [] score  = loadStrings(path);

@@ -1,7 +1,7 @@
 /**
 goal : have a clean score per Module with only the occurence of the var we are searching for.
+this patch load qlist files
 cf. at the end for all the var per module
-this patch need to load qlist files
 ML 2016
  */
 

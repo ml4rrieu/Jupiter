@@ -1,7 +1,9 @@
 /**
-for each evt, and for each modules, put outputs (where signals are going) inside table
-to2 mean stereo connection
-to4 mean spat connection
+goal : extract for each events in qlist files the connections between modules.
+this code load qlist files.
+voca : 
+  to2 mean stereo connection
+  to4 mean spat connection
 
  ML 2016 
  */
@@ -19,8 +21,8 @@ void setup() {
   init();
 
   for (section = 1; section < 14; section ++) {
-    if (section < 10 ) path = "../../../../myJupiter/rebuildPatch/score/section0"+section+"-qlist.txt" ;
-    if (section >=10) path =    "../../../../myJupiter/rebuildPatch/score/section"+section+"-qlist.txt" ;
+    if (section < 10 ) path = "../score/section0"+section+"-qlist.txt" ;//qlist path
+    if (section >=10) path =    "../score/section"+section+"-qlist.txt" ;
     String[] score = loadStrings(path);
 
     //0. ITERATE TRHOW SCORE

@@ -1,0 +1,8 @@
+flute	d	synth
+sampler	t	synth
+osc	o	synth
+reverb	r	treat
+harm	h	treat
+freqShift	f	treat
+noise	n	treat
+spat	4	treat
