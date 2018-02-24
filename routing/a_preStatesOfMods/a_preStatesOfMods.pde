@@ -1,9 +1,9 @@
 /**
-goal : get the pre state of modules, to know if Modules are able to make sound or not.
-this code load all qlist files.
-last evt of section are not read, but we dont care since (hopefully) they are empty
+goal : get the pre state of modules to know if Modules are able or not to make sound.
+this code load all qlist files and output a table.
+last evt of section are not read, but its not imporant since (hopefully) they are empty.
 ML 2016
- */
+*/
 
 import java.util.Map;
 HashMap<String, Module> hm;
@@ -20,8 +20,8 @@ void setup() {
 
   //0.load section score
   for (int section =1; section < 14; section ++) { // 13 section 
-    if (section < 10 ) path = "../../../../myJupiter/rebuildPatch/score/section0"+section+"-qlist.txt" ;
-    if (section >=10) path =    "../../../../myJupiter/rebuildPatch/score/section"+section+"-qlist.txt" ;
+    if (section < 10 ) path = "score/section0"+section+"-qlist.txt" ; // qlist path
+    if (section >=10) path =  "score/section"+section+"-qlist.txt" ;
     String [] score  = loadStrings(path);
 
     //1. iterate throw score
