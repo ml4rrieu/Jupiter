@@ -13,9 +13,4 @@ This repository includes six programs I have made during my PhD [2] for analyzin
 <br>
 This repository has been archived in Zenodo 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1183938.svg)](https://doi.org/10.5281/zenodo.1183938)
-
-
-
-
-
+<a href="https://doi.org/10.5281/zenodo.1183938">doi.org/10.5281/zenodo.1183938</a>
